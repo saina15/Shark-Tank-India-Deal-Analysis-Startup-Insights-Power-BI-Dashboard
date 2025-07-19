@@ -1,0 +1,508 @@
+Season Number,Startup Name,Episode Number,Industry,Company Website,Started in,Number of Presenters,Couple Presenters,Pitchers Average Age,Pitchers City,Pitchers State,Gross Margin in %,Net Margin,Cash Burn,SKUs,Has Patents,Bootstrapped,Part of Match off,Original Offered Equity,Received Offer,deal outcome,equity given (%),Total Deal Debt(in lakhs),Debt Interest,Number of Sharks in Deal,Deal Has Conditions,Royalty Deal,Advisory Shares Equity,original ask amount in Cr.,valuation requested in Cr.,Total deal amount in Cr.,Deal valuation in Cr.,Deal status,Yearly revenue in Cr.,Monthy sales in Cr.,Revenue Type,Male Presenters,Female Presenters,Transgender Presenters
+1,Heartupmysleeves,1,Beauty/Fashion,https://heartupmysleeves.com/,2021,1,0,Young,Delhi,Delhi,,,No,,No,funded,No,10,1,Accepted,30,0,0,2,No,No,0,0.25,2.5,0.25,0.83,deal made,,0.02,Monthly Only,0,1,0
+1,Revampmoto,5,Vehicles/Electrical Vehicles,https://www.revampmoto.in/,2021,3,0,Young,Nashik,Maharashtra,,,No,,No,funded,No,1,1,Accepted,1.5,0,0,2,No,No,0,1,100,1,66.67,deal made,,0.0001,Monthly Only,3,0,0
+1,Skippiicepops,6,Food,https://skippi.in/,2021,2,1,Middle,Hyderabad,Telangana,,,No,,yes,funded,No,5,1,Accepted,15,0,0,5,No,No,0,0.45,9,1,6.67,deal made,,0.075,Monthly Only,1,1,0
+1,Kavach,7,Education,https://antibullyingsquad.com/,2018,2,0,Young,Gurgaon,Haryana,,,No,,No,funded,No,10,1,Accepted,10,0,0,2,No,No,0,0.05,0.5,0.05,0.5,deal made,,,No Data,1,1,0
+1,Altor,9,Manufacturing,https://www.altorsmarthelmet.com/,2019,4,0,Young,Kolkata,West Bengal,,,No,,No,funded,No,5,1,Accepted,7,0,0,2,No,No,0,0.5,10,0.5,7.14,deal made,,,No Data,4,0,0
+1,Sweedesi,12,Food,https://www.sweedesi.com/,2018,2,1,Middle,Pune,Maharashtra,,,No,,No,funded,No,3,0,No Offer,0,0,0,0,No,No,0,0.4,13.33,0,0,no deal,,,No Data,1,1,0
+1,Loka,12,Technology/Software,https://www.lokaworld.app/,2020,1,0,Young,Delhi,Delhi,,,No,,No,funded,No,5,1,Accepted,24,0,0,3,No,No,0,0.4,8,0.4,1.67,deal made,,,No Data,1,0,0
+1,Carragreen,13,Manufacturing,https://carragreen.com/,2018,2,0,Middle,Indore,Madhya Pradesh,,,No,,yes,funded,No,10,1,Accepted,20,0,0,2,No,No,0,0.5,5,0.5,2.5,deal made,,,No Data,0,2,0
+1,Morrikopurefoods,14,Food,https://morrikopurefoods.com/,2018,3,0,Middle,Valsad,Gujarat,,,No,,No,funded,No,3,1,Rejected,0,0,0,0,No,No,0,1,33.33,0,0,no deal,,0.16,Monthly Only,2,1,0
+1,Flyingfur,16,Animal/Pets,https://flyingfur.in/,2016,3,0,Middle,Delhi,Delhi,,,No,,No,funded,No,7,0,No Offer,0,0,0,0,No,No,0,0.75,10.71,0,0,no deal,,,No Data,2,1,0
+1,Beyondwater,16,Food,https://drinkbeyond.co.in/,2020,2,0,Young,Kolkata,West Bengal,,,No,,No,funded,No,4,1,Accepted,15,0,0,2,No,No,0,0.75,18.75,0.75,5,deal made,,0.1,Monthly Only,1,1,0
+1,Findyourkicksindia,17,Beauty/Fashion,https://findyourkicksindia.co/,2021,3,0,Young,Ludhiana,Punjab,,,No,,No,funded,No,10,1,Accepted,25,0,0,5,No,No,0,0.5,5,0.5,2,deal made,,0.035,Monthly Only,3,0,0
+1,Magiclock,19,Hardware,http://www.magiclockdc.com/,2019,3,0,Middle,Mumbai,Maharashtra,,,No,,yes,funded,No,8,0,No Offer,0,0,0,0,No,No,0,1.2,15,0,0,no deal,,0.0004,Monthly Only,3,0,0
+1,Inacan,20,Food,https://inacan.in/,2020,3,0,Middle,Pune,Maharashtra,,,No,,No,funded,No,2,1,Accepted,10,0,0,5,No,No,0,0.5,25,1,10,deal made,,0.23,Monthly Only,3,0,0
+1,Thequirkynaari,21,Beauty/Fashion,https://thequirkynaari.com/,2018,1,0,Young,Mathura,Uttar Pradesh,,,No,,No,funded,No,5,1,Accepted,24,0,0,2,No,No,0,0.35,7,0.35,1.46,deal made,,0.03,Monthly Only,0,1,0
+1,Nuskhakitchen,24,Food,https://nuskhakitchen.com/,2019,2,0,Middle,Jaipur,Rajasthan,,,No,,No,funded,No,10,0,No Offer,0,0,0,0,No,No,0,0.2,2,0,0,no deal,,0.0145,Monthly Only,1,1,0
+1,Isakfragrances,26,Beauty/Fashion,https://isakfragrances.com/,2016,1,0,Young,Lucknow,Uttar Pradesh,,,No,,No,funded,No,8,1,Accepted,50,0,0,1,yes,No,0,0.5,6.25,0.5,1,deal made,,0.035,Monthly Only,0,1,0
+1,Watttechnovations,27,Medical/Health,https://www.watttechnovations.com/,2020,1,0,Young,Pune,Maharashtra,,,No,,No,funded,No,2,1,Accepted,4,0,0,4,No,No,0,0.0000101,0,0.0000101,0,deal made,,,No Data,1,0,0
+1,Sippline,30,Manufacturing,https://www.sippline.com/,2019,1,0,Middle,Pune,Maharashtra,,,No,,No,funded,No,15,0,No Offer,0,0,0,0,No,No,0,0.75,5,0,0,no deal,,,No Data,1,0,0
+1,Ayurythm,31,Medical/Health,https://www.ayurythm.com/home/,2016,3,0,Middle,Bangalore,Karnataka,,,No,,No,funded,No,2,1,Accepted,2.68,0,0,1,No,No,0,0.75,37.5,0.75,27.99,deal made,,,No Data,3,0,0
+1,C3Med-Tech,32,Medical/Health,https://c3prototypes.com/,2019,2,1,Middle,Ahmedabad,Gujarat,,,No,,No,funded,No,6,1,Rejected,0,0,0,0,No,No,0,0.35,5.83,0,0,no deal,,,No Data,1,1,0
+1,Colourmemad-Cmm,33,Beauty/Fashion,https://yourfootdoctor.in/,2017,2,1,Middle,Mumbai,Maharashtra,,,No,,No,funded,No,10,1,Accepted,25,0,0,1,No,No,0,0.4,4,0.4,1.6,deal made,,0.0066,Monthly Only,1,1,0
+1,Mavi'S,33,Food,https://mavispantry.com/,2018,2,1,Middle,Thane,Maharashtra,,,No,,No,funded,No,5,0,No Offer,0,0,0,0,No,No,0,0.4,8,0,0,no deal,,0.02,Monthly Only,1,1,0
+1,Tweeklabs,33,Sports,https://www.tweek-labs.com/,2019,4,0,Middle,Delhi,Delhi,,,No,,No,funded,No,2,1,Accepted,10,0,0,3,No,No,0,0.4,20,0.6,6,deal made,,,No Data,4,0,0
+1,Proxgy,33,Technology/Software,https://www.proxgy.com/,2020,2,0,Middle,Delhi,Delhi,,,No,,No,funded,No,1,1,Accepted,10,0,0,2,No,No,0,0.35,35,1,10,deal made,,,No Data,2,0,0
+1,Tweeinone,34,Beauty/Fashion,https://tweeinone.com/,2017,1,0,Young,Mumbai,Maharashtra,,,No,,No,funded,No,7.5,0,No Offer,0,0,0,0,No,No,0,0.3,4,0,0,no deal,,,No Data,0,1,0
+1,Jainshikanji,35,Food,https://jainshikanjimasala.com/,2017,1,0,Middle,Modinagar,Uttar Pradesh,,,No,,No,funded,No,8,1,Accepted,30,0,0,4,No,No,0,0.4,5,0.4,1.33,deal made,,0.02,Monthly Only,1,0,0
+1,Sneakare,36,Beauty/Fashion,https://sneakare.com/,2020,1,0,Young,Delhi,Delhi,,,No,,No,funded,No,5,1,Accepted,12,0,0,3,No,No,0,0.2,4,0.21,1.75,deal made,,0.07,Monthly Only,1,0,0
+1,Witblox,0,Manufacturing,https://witblox.com/,2020,2,0,Middle,Mumbai,Maharashtra,,,No,,No,funded,No,3,1,Accepted,10,0,0,2,No,No,0,0.6,20,0.6,6,deal made,,,No Data,1,1,0
+1,Clensta,0,Beauty/Fashion,https://clensta.com/,2017,1,0,Middle,Delhi,Delhi,,,No,,No,funded,No,1,0,No Offer,0,0,0,0,No,No,0,1,100,0,0,no deal,,1.5,Monthly Only,1,0,0
+1,Infinitiinsects,0,Animal/Pets,https://infiniti-insects.business.site/,2016,2,,Middle,Bangalore,Karnataka,,,No,,No,funded,No,10,0,No Offer,0,0,0,0,No,No,0,0.25,2.5,0,0,no deal,,0.005,Monthly Only,1,1,0
+1,Ashwapro,0,Services,https://ashwa.pro/,2020,1,0,Middle,Jaipur,Rajasthan,,,No,,No,funded,No,10,0,No Offer,0,0,0,0,No,No,0,0.5,5,0,0,no deal,,,No Data,1,0,0
+1,Stanleeindia,0,Electronics,https://www.stanleeindia.com/,2019,3,0,Middle,Delhi,Delhi,,,No,,No,funded,No,3,0,No Offer,0,0,0,0,No,No,0,0.6,20,0,0,no deal,,,No Data,3,0,0
+1,Spacekidzindia,0,Manufacturing,https://www.spacekidzindia.in/,2016,2,0,Middle,Chennai,Tamil Nadu,,,No,,No,funded,No,2,0,No Offer,0,0,0,0,No,No,0,1,50,0,0,no deal,,,No Data,1,1,0
+1,Urbannaps,0,Services,https://urbannaps.com/,2018,2,0,Young,Ahmedabad,Gujarat,,,No,,No,funded,No,4,1,Rejected,0,0,0,0,No,No,0,0.5,12.5,0,0,no deal,,,No Data,2,0,0
+1,Zyppelectric,0,Vehicles/Electrical Vehicles,https://zypp.app/,2017,2,1,Young,Gurgaon,Haryana,,,Yes,,No,funded,No,1,0,No Offer,0,0,0,0,No,No,0,2.2,220,0,0,no deal,,,No Data,1,1,0
+1,Picsniff,0,Technology/Software,https://algomage.com/algoshare,2021,1,0,Young,Mumbai,Maharashtra,,,No,,No,funded,No,1,1,Rejected,0,0,0,0,No,No,0,0.55,55,0,0,no deal,,,No Data,1,0,0
+1,Deciwood,0,Electronics,https://deciwood.com/,2019,2,0,Young,Delhi,Delhi,,,No,,No,funded,No,3.5,0,No Offer,0,0,0,0,No,No,0,0.5,14.29,0,0,no deal,,,No Data,2,0,0
+1,Happybar,0,Food,https://www.fitsport.me/,2019,3,0,Middle,Hyderabad,Telangana,,,Yes,,No,funded,No,2,0,No Offer,0,0,0,0,No,No,0,0.6,30,0,0,no deal,,0.29,Monthly Only,2,1,0
+1,Tathastulive,0,Services,https://www.temple.biz/,2020,3,1,Middle,Ahmedabad,Gujarat,,,No,,No,funded,No,10,0,No Offer,0,0,0,0,No,No,0,0.5,5,0,0,no deal,,,No Data,2,1,0
+1,Mywealthprotector,0,Services,https://mywealthprotector.com/,2019,2,0,Middle,Mumbai,Maharashtra,,,No,,No,funded,No,2.5,0,No Offer,0,0,0,0,No,No,0,0.5,20,0,0,no deal,,0.02,Monthly Only,2,0,0
+1,Theiris,0,Manufacturing,https://www.theiris.co.in/,2019,2,,Young,Bangalore,Karnataka,,,No,,No,funded,No,15,0,No Offer,0,0,0,0,No,No,0,0.1,0.67,0,0,no deal,,,No Data,1,1,0
+1,Oyedelhioye,0,Food,,2021,2,0,Middle,Delhi,Delhi,,,No,,No,funded,No,10,0,No Offer,0,0,0,0,No,No,0,0.35,3.5,0,0,no deal,,,No Data,2,0,0
+1,Inaliassistivetech,0,Medical/Health,https://inalifoundation.com/,2020,2,0,Young,Pune,Maharashtra,,,No,,No,funded,No,5,0,No Offer,0,0,0,0,No,No,0,0.5,10,0,0,no deal,,,No Data,2,0,0
+1,Meera'Scelebrations,0,Services,https://www.facebook.com/meeracelebrations/,2010,2,1,Middle,Ludhiana,Punjab,,,No,,No,funded,No,25,0,No Offer,0,0,0,0,No,No,0,0.5,2,0,0,no deal,,,No Data,1,1,0
+1,Artment,0,Furnishing/Household,https://theartment.com/,2019,2,0,Young,Gurgaon,Haryana,,,No,,No,funded,No,2.5,1,Rejected,0,0,0,0,No,No,0,1.7,68,0,0,no deal,,1,Monthly Only,1,1,0
+1,Powertree,0,Manufacturing,https://powertree.co.in/,2018,2,0,Middle,Gandhinagar,Gujarat,,,No,,No,funded,No,2.5,0,No Offer,0,0,0,0,No,No,0,1.5,60,0,0,no deal,,,No Data,2,0,0
+2,Hoovu,1,Services,https://hoovufresh.com/,,2,0,Young,Bangalore,Karnataka,,,No,,No,funded,No,1,1,Accepted,2,0,0,2,No,No,0,0.8,80,1,50,deal made,,0.65,Monthly Only,0,2,0
+2,Dorji,1,Food,https://dorjeteas.com/,,2,0,Young,Darjeeling,West Bengal,,,No,,No,funded,No,5,1,Accepted,15,0,0,3,No,No,0,0.3,6,0.3,2,deal made,,0.11,Monthly Only,2,0,0
+2,Recode,1,Beauty/Fashion,https://shop.recodestudios.com/,,2,0,Middle,Ludhiana,Punjab,,,No,,No,funded,No,1,0,No Offer,0,0,0,0,No,No,0,1,100,0,0,no deal,,,No Data,2,0,0
+2,Atmosphere,3,Food,https://atmospherestudio.in/,,2,0,Young,Delhi,Delhi,,,No,,No,funded,No,3,1,Rejected,0,0,0,0,No,No,0,0.75,25,0,0,no deal,,,No Data,0,2,0
+2,Girgit,3,Beauty/Fashion,https://www.girgitstore.com/,,2,1,Young,Mumbai,Maharashtra,,,No,,No,funded,No,10,1,Accepted,20,0,0,1,No,No,0,0.2,2,0.2,1,deal made,,,No Data,1,1,0
+2,Gearheadmotors,4,Vehicles/Electrical Vehicles,https://www.ghmev.com/,,2,0,Young,Hyderabad,Telangana,,,No,,No,funded,No,2,1,Accepted,6.67,0,0,2,No,No,0,0.75,37.5,1,14.99250375,deal made,,,No Data,2,0,0
+2,Patilkaki,4,Food,https://patilkaki.com/,2020,3,0,Young,Mumbai,Maharashtra,,,No,,No,funded,No,2.5,1,Accepted,4,0,0,2,No,No,0,0.4,16,0.4,10,deal made,,,No Data,2,1,0
+2,Winston,5,Beauty/Fashion,https://winstonindia.com/,,2,1,Middle,Faridabad,Haryana,,,No,,No,funded,No,4,1,Accepted,10,0,0,2,No,No,0,1,25,1,10,deal made,,0.46,Monthly Only,1,1,0
+2,Flatheads,5,Beauty/Fashion,https://www.flatheads.in/,2019,1,0,Middle,Bangalore,Karnataka,,,Yes,,No,funded,No,3,1,Rejected,0,0,0,0,No,No,0,0.75,25,0,0,no deal,,,No Data,1,0,0
+2,Organicsmokes,5,Beauty/Fashion,https://www.meaame.com/,,3,0,Middle,Delhi,Delhi,,,No,,No,funded,No,1,0,No Offer,0,0,0,0,No,No,0,1,100,0,0,no deal,,0.4,Monthly Only,3,0,0
+2,Teafit,6,Liquor/Beverages,http://tea.fit/,,3,0,Young,Mumbai,Maharashtra,,,No,,No,funded,No,3,1,Accepted,8,0,0,4,No,No,0,0.5,16.66666667,0.5,6.25,deal made,,,No Data,2,1,0
+2,Haqdarshak,6,Services,https://haqdarshak.com/,,2,0,Middle,Shimla,Himachal Pradesh,,,No,,No,funded,No,0.5,1,Accepted,2,0,0,3,No,No,0,1,200,1,50,deal made,,,No Data,1,1,0
+2,Bhaskar'Spuranpolighar,6,Food,http://bhaskarspuranpolighar.in/,,3,0,Middle,Thane,Maharashtra,,,No,,No,funded,No,1,0,No Offer,0,0,0,0,No,No,0,0.75,75,0,0,no deal,,,No Data,3,0,0
+2,Thesimplysalad,7,Food,https://simplysalad.com/,,2,0,Young,Ahmedabad,Gujarat,,,No,,No,funded,No,10,1,Accepted,10,0,0,2,No,No,0,0.3,3,0.3,3,deal made,,,No Data,1,1,0
+2,Atypicaladvantage,8,Technology/Software,https://atypicaladvantage.in/,,1,0,Middle,Jamshedpur,Jharkhand,,,No,,No,funded,No,1,1,Accepted,3,0,0,2,No,No,0,0.3,30,0.3,10,deal made,,,No Data,1,0,0
+2,Houseofchikankari,8,Beauty/Fashion,https://www.houseofchikankari.in/,2020,2,0,Middle,Delhi,Delhi,,,No,,No,funded,No,1,1,Accepted,3.75,0,0,2,No,No,0,0.75,75,0.75,20,deal made,,,No Data,0,2,0
+2,Magicofmemories,8,Beauty/Fashion,https://www.themagicofmemories.com/,,1,0,Middle,Delhi,Delhi,,,No,,No,funded,No,5,0,No Offer,0,0,0,0,No,No,0,0.25,5,0,0,no deal,,,No Data,0,1,0
+2,Nestroots,9,Furnishing/Household,https://www.nestroots.com/,,1,0,Middle,Delhi,Delhi,,,No,,No,funded,No,1,1,Accepted,2,0,0,1,No,No,0,0.5,50,0.5,25,deal made,,,No Data,0,1,0
+2,Credmate,10,Technology/Software,https://credmate.in/,,2,0,Middle,Ludhiana,Punjab,,,No,,No,funded,No,5,0,No Offer,0,0,0,0,No,No,0,0.5,10,0,0,no deal,,1.3,Monthly Only,2,0,0
+2,Abcsports&Fitness,11,Sports,https://www.abcfitnessfirm.com/,,2,0,Middle,Pune,Maharashtra,,,No,,No,funded,No,2,1,Accepted,10,0,0,1,No,No,0,0.4,20,0.4,4,deal made,,,No Data,2,0,0
+2,Primebook,11,Technology/Software,https://www.primebook.in/,,4,0,Middle,Delhi,Delhi,,,No,,No,funded,No,1.5,1,Accepted,3,0,0,2,No,No,0,0.75,50,0.75,25,deal made,,,No Data,4,0,0
+2,Gharsoaps,12,Beauty/Fashion,https://www.gharsoaps.shop/,,2,0,Middle,Pune,Maharashtra,,,No,,No,funded,No,2,1,Accepted,4,0,0,1,No,No,0,0.6,30,0.6,15,deal made,,,No Data,2,0,0
+2,Janitri,12,Medical/Health,https://www.janitri.in/,2021,1,0,Middle,Alwar,Rajasthan,,,No,,No,funded,No,2.5,1,Accepted,2.5,0,0,1,No,No,0,1,40,1,40,deal made,,,No Data,1,0,0
+2,Insidefpv,13,Manufacturing,https://www.insidefpv.com/,,3,0,Young,Surat,Gujarat,,,No,,No,funded,No,4,1,Accepted,15,0,0,4,No,No,0,0.75,18.75,0.75,5,deal made,,,No Data,2,1,0
+2,Angrakhaa,13,Beauty/Fashion,https://www.angrakhaa.com/,,2,0,Young,Delhi,Delhi,,,No,,No,funded,No,5,1,Accepted,20,0,0,1,No,No,0,0.4,8,0.4,2,deal made,,,No Data,0,2,0
+2,Diabexy,13,Food,https://diabexy.com/,2016,2,1,Middle,Gurgaon,Haryana,,,No,,No,funded,No,1,1,Rejected,0,0,0,0,No,No,0,1.5,150,0,0,no deal,,1,Monthly Only,1,1,0
+2,Kyari,14,Manufacturing,https://kyari.in/,2018,2,0,Young,Ghaziabad,Uttar Pradesh,,,No,,No,funded,No,1,1,Accepted,6,0,0,2,No,No,0,0.51,51,0.51,8.5,deal made,,0.1,Monthly Only,1,1,0
+2,Moppfoods,14,Food,https://moppfoods.com/,,2,1,Middle,Delhi,Delhi,,,No,,No,funded,No,2.25,1,Accepted,5,0,0,1,No,No,0,0.75,33.33333333,0.75,15,deal made,,,No Data,1,1,0
+2,Econiture,14,Furnishing/Household,https://www.econiture.com/,,4,0,Middle,Amaravati,Maharashtra,,,No,,No,funded,No,8,0,No Offer,0,0,0,0,No,No,0,0.5,6.25,0,0,no deal,,,No Data,4,0,0
+2,Raasa,18,Food,,2022,1,0,Middle,Delhi,Delhi,,,No,,No,funded,No,5,1,Accepted,25,0,0,1,No,No,0,0.5,10,0.5,2,deal made,,,No Data,1,0,0
+2,Bullspree,19,Technology/Software,https://bullspree.com/,,3,0,Middle,Ahmedabad,Gujarat,,,Yes,,No,funded,No,1.5,1,Accepted,2.86,0,0,2,No,No,0,0.75,50,0.75,26.22377622,deal made,,,No Data,3,0,0
+2,Snitch,20,Beauty/Fashion,https://www.snitch.co.in/,2020,1,0,Middle,Bangalore,Karnataka,,,No,,No,funded,No,0.5,1,Accepted,1.5,0,0,5,No,No,0,1.5,300,1.5,100,deal made,,,No Data,1,0,0
+2,Fattoslim,20,Beauty/Fashion,http://fattoslimbangalore.com/,,1,0,Middle,Bangalore,Karnataka,,,No,,No,funded,No,1,0,No Offer,0,0,0,0,No,No,0,0.2,20,0,0,no deal,,0.14,Monthly Only,0,1,0
+2,Cheesecake&Co.,21,Food,https://cheesecakeco.in/,2018,2,1,Middle,Delhi,Delhi,,,No,,No,funded,No,2,1,Rejected,0,0,0,0,No,No,0,1,50,0,0,no deal,,1.94,Monthly Only,1,1,0
+2,Cloudtailor,21,Services,https://www.cloudtailor.com/,,3,1,Middle,"Bangalore,Hyderabad","Karnataka,Telangana",,,Yes,,No,funded,No,1.4,0,No Offer,0,0,0,0,No,No,0,1,71.42857143,0,0,no deal,,0.34,Monthly Only,2,1,0
+2,Broomees,22,Services,https://broomees.com/,,3,0,Middle,Delhi,Delhi,,,No,,No,funded,No,2,1,Accepted,3,0,0,3,No,No,0,0.8,40,1,33.33333333,deal made,,,No Data,2,1,0
+2,Ravel,22,Beauty/Fashion,https://www.ravelcare.com/,2021,1,0,Middle,Amaravati,Maharashtra,,,No,,No,funded,No,2.5,1,Accepted,10,0,0,1,No,No,0,0.75,30,0.75,7.5,deal made,,0.4,Monthly Only,1,0,0
+2,Padcare,23,Manufacturing,https://www.padcarelabs.com/,,1,0,Young,Pune,Maharashtra,,,Yes,,No,funded,No,2,1,Accepted,4,0,0,4,No,No,0,0.5,25,1,25,deal made,,0.14,Monthly Only,1,0,0
+2,Oll,23,Technology/Software,https://www.oll.co/,,1,0,Young,Mumbai,Maharashtra,,,No,,No,funded,No,2,1,Accepted,5,0,0,2,No,No,0,0.3,15,0.3,6,deal made,,,No Data,1,0,0
+2,Geeani,24,Vehicles/Electrical Vehicles,,,3,0,Middle,Ahmedabad,Gujarat,,,No,,No,funded,No,7.5,1,Accepted,10,0,0,3,No,No,0,0.75,10,1,10,deal made,,,No Data,2,1,0
+2,Amore,24,Food,https://www.amoregelato.com/,,2,0,Middle,"Hyderabad,Mumbai","Telangana,Maharashtra",,,No,,No,funded,No,4,1,Accepted,7.5,0,0,1,yes,No,0,0.75,18.75,0.75,10,deal made,,,No Data,2,0,0
+2,Thegreensnack,27,Food,https://thegreensnackco.com/,2017,2,1,Middle,Mumbai,Maharashtra,,,Yes,,No,funded,No,2,1,Accepted,8,0,0,1,No,No,0,1,50,1,12.5,deal made,,0.25,Monthly Only,1,1,0
+2,Zoff,28,Food,https://zofffoods.com/,2018,2,0,Middle,Raipur,Chhattisgarh,,,No,,No,funded,No,0.5,1,Accepted,1.25,0,0,1,No,No,0,1,200,1,80,deal made,,7,Monthly Only,2,0,0
+2,Cloudworx,28,Technology/Software,http://www.cloudworx.ai/,,1,0,Middle,Bangalore,Karnataka,,,No,,No,funded,No,2,1,Accepted,3.2,0,0,2,yes,No,0,0.4,20,0.4,12.5,deal made,,0.14,Monthly Only,1,0,0
+2,Mahantam,29,Manufacturing,https://mahantam.co.in/,,2,0,Young,Banaskantha,Gujarat,,,No,,No,funded,No,10,1,Accepted,20,0,0,5,No,No,0,0.3,3,0.3,1.5,deal made,,,No Data,2,0,0
+2,Mindpeers,29,Medical/Health,https://www.mindpeers.co/,,2,0,Middle,Delhi,Delhi,,,No,,No,funded,No,1,1,Accepted,2,0,0,4,No,No,0,0.53,53,1.06,53,deal made,,,No Data,1,1,0
+2,Daryaganj,30,Food,https://daryaganj.com/,,3,0,Middle,Delhi,Delhi,,,No,,No,funded,No,0.5,1,Accepted,1,0,0,1,yes,No,0,0.9,180,0.9,90,deal made,,3,Monthly Only,3,0,0
+2,Dhruvvidyut,30,Vehicles/Electrical Vehicles,https://www.instagram.com/dhruvvidyutdv/?hl=en,,1,0,Middle,Delhi,Delhi,,,No,,No,funded,No,0.5,1,Accepted,0.5,0,0,3,yes,No,0,0,0,0,0,deal made,,,No Data,1,0,0
+2,Digiqure,31,Medical/Health,https://digiqure.com/,,2,0,Middle,Bhopal,Madhya Pradesh,,,No,,No,funded,No,4,1,Accepted,10,0,0,1,No,No,0,0.4,10,0.4,4,deal made,,,No Data,2,0,0
+2,Nirmalaya,31,Manufacturing,https://nirmalaya.com/,,3,1,Middle,Delhi,Delhi,,,Yes,,No,funded,No,1.5,0,No Offer,0,0,0,0,No,No,0,0.6,40,0,0,no deal,,0.8,Monthly Only,2,1,0
+2,Thehealthybinge,33,Food,https://www.healthybinge.co.in/,,2,0,Middle,Pune,Maharashtra,,,Yes,,No,funded,No,5,1,Accepted,5,0,0,2,No,No,0,0.5,10,0.5,10,deal made,,0.11,Monthly Only,2,0,0
+2,Bowled.Io,35,Sports,https://www.bowled.io/,,2,0,Middle,Mumbai,Maharashtra,,,No,,No,funded,No,1,0,No Offer,0,0,0,0,No,No,0,0.8,80,0,0,no deal,,,No Data,2,0,0
+2,Neuphony,36,Medical/Health,https://neuphony.com/,2022,2,1,Young,Noida,Uttar Pradesh,,,Yes,,No,funded,No,2,1,Accepted,5.4,0,0,2,No,No,0,1,50,1,18.51851852,deal made,,,No Data,1,1,0
+2,Hornback,37,Vehicles/Electrical Vehicles,https://hornback.bike/,,2,0,Middle,Hyderabad,Telangana,,,No,,yes,funded,No,1,1,Accepted,2.5,0,0,1,yes,No,0,0.5,50,0.5,20,deal made,,,No Data,2,0,0
+2,Cremeitalia,38,Food,https://cremeitalia.com/,,1,0,Middle,Mumbai,Maharashtra,,,No,,No,funded,No,1.5,0,No Offer,0,0,0,0,No,No,0,0.9,60,0,0,no deal,,0.62,Monthly Only,1,0,0
+2,Nawgati,38,Services,https://www.nawgati.com/,,3,0,Young,Noida,Uttar Pradesh,,,No,,No,funded,No,2,1,Accepted,3,0,0,2,No,No,0,0.67,33.5,0.67,22.33333333,deal made,,,No Data,3,0,0
+2,Swytchd,38,Vehicles/Electrical Vehicles,https://swytchd.com/,,1,0,Middle,Bangalore,Karnataka,,,No,,No,funded,No,3,0,No Offer,0,0,0,0,No,No,0,0.5,16.66666667,0,0,no deal,,,No Data,1,0,0
+2,Gladful,39,Food,https://gladful.in/,2022,2,0,Middle,Jaipur,Rajasthan,,,Yes,,No,funded,No,2,1,Accepted,3.5,0,0,3,No,No,0,0.5,25,0.5,14.28571429,deal made,,0.24,Monthly Only,1,1,0
+2,Pharmallama,39,Medical/Health,https://pharmallama.com/,2022,3,0,Middle,Bangalore,Karnataka,,,No,,No,funded,No,1.5,1,Accepted,5,0,0,5,No,No,0,1,66.66666667,2,40,deal made,,0.24,Monthly Only,3,0,0
+2,Trunome,41,Medical/Health,https://acrannolife.com/,,2,0,Middle,Chennai,Tamil Nadu,,,No,,yes,funded,No,1,1,Accepted,2,0,0,4,No,No,0,1.5,150,1.5,75,deal made,,,No Data,2,0,0
+2,What'Supwellness,41,Food,https://whatsupwellness.in/,,2,0,Middle,Kolkata,West Bengal,,,No,,No,funded,No,3,1,Accepted,4.76,0,0,3,No,No,0,0.5,16.66666667,0.6,12.60504202,deal made,,0.3,Monthly Only,1,1,0
+2,Proostbeer,42,Liquor/Beverages,https://www.proost69.com/,2018,2,0,Middle,Delhi,Delhi,,,Yes,,No,funded,No,0.75,0,No Offer,0,0,0,0,No,No,0,1,133.3333333,0,0,no deal,,,No Data,2,0,0
+2,Wtf,43,Food,,,1,0,Middle,Kolkata,West Bengal,,,No,,No,funded,No,5,0,No Offer,0,0,0,0,No,No,0,0.75,15,0,0,no deal,,,No Data,1,0,0
+2,Funngro,43,Technology/Software,https://www.funngro.com/,2021,3,1,Middle,Mumbai,Maharashtra,,,No,,No,funded,No,1.25,1,Accepted,4.16,0,0,2,No,No,0,0.5,40,0.5,12.01923077,deal made,,,No Data,1,2,0
+2,Kitsons,44,Furnishing/Household,https://kitsons.in/,2010,3,0,Middle,Hyderabad,Telangana,,,No,,No,funded,No,10,0,No Offer,0,0,0,0,No,No,0,10,100,0,0,no deal,,,No Data,3,0,0
+2,Londonbubble,44,Food,https://londonbubbleco.com/,,2,0,Middle,Mumbai,Maharashtra,,,No,,No,funded,No,5,1,Accepted,15,0,0,1,No,No,0,0.75,15,0.75,5,deal made,,,No Data,2,0,0
+2,Singhstyled,45,Beauty/Fashion,https://www.singhstyled.com/,2019,2,0,Middle,Mumbai,Maharashtra,,,No,,No,funded,No,5,1,Accepted,10,0,0,1,yes,No,0,0.5,10,0.5,5,deal made,,0.075,Monthly Only,2,0,0
+2,Theplatedproject,46,Services,https://www.theplatedproject.com/,,1,0,Middle,Mumbai,Maharashtra,,,No,,No,funded,No,2,1,Accepted,3.75,0,0,3,No,No,0,0.75,37.5,0.75,20,deal made,,,No Data,1,0,0
+2,Vsnapu,46,Services,https://www.vsnapu.com/,2017,4,0,Middle,Goa,Goa,,,No,,No,funded,No,1.5,0,No Offer,0,0,0,0,No,No,0,0.5,33.33333333,0,0,no deal,,0.15,Monthly Only,4,0,0
+2,Brevistay,47,Services,https://www.brevistay.com/,2016,5,0,Young,"Dehradun,Nainital,Lucknow","Uttarakhand,Uttar Pradesh",,,No,,No,funded,No,1.66,0,No Offer,0,0,0,0,No,No,0,1,60.24096386,0,0,no deal,,0.42,Monthly Only,5,0,0
+2,Soulup,47,Services,https://www.soulup.in/,,2,0,Middle,Bangalore,Karnataka,,,No,,No,funded,No,3,1,Accepted,5,0,0,1,No,No,0,0.5,16.66666667,0.5,10,deal made,,,No Data,0,2,0
+2,Samenotification,48,Technology/Software,,,1,0,Middle,"Ahmedabad,Mirzapur","Gujarat,Uttar Pradesh",,,No,,No,funded,No,15,0,No Offer,0,0,0,0,No,No,0,0.25,1.666666667,0,0,no deal,,,No Data,1,0,0
+2,Bottomlinesprays,48,Furnishing/Household,https://bottomlinesprays.com/,,2,1,Middle,Ahmedabad,Gujarat,,,No,,No,funded,No,5,0,No Offer,0,0,0,0,No,No,0,0.35,7,0,0,no deal,,0.02,Monthly Only,1,1,0
+2,Forevermodest,49,Beauty/Fashion,https://forevermodest.shop/,2021,1,0,Young,Aurangabad,Maharashtra,,,No,,No,funded,No,10,1,Accepted,20,0,0,4,No,No,0,0.2,2,0.2,1,deal made,,0.042,Monthly Only,0,1,0
+2,Sahayatha,49,Medical/Health,https://dhanvantribiomedical.com/,2022,1,0,Young,Coimbatore,Tamil Nadu,,,No,,yes,funded,No,10,1,Accepted,10,0,0,5,No,No,0,1,10,1,10,deal made,,,No Data,0,1,0
+2,Wickedgud,49,Food,https://wickedgud.com/,2021,3,0,Middle,Mumbai,Maharashtra,,,Yes,,No,funded,No,1,0,No Offer,0,0,0,0,No,No,0,0.5,50,0,0,no deal,,,No Data,3,0,0
+2,Mybyk,50,Vehicles/Electrical Vehicles,https://mybyk.in/,,1,0,Middle,Ahmedabad,Gujarat,,,Yes,,No,funded,No,1,0,No Offer,0,0,0,0,No,No,0,2,200,0,0,no deal,,,No Data,1,0,0
+2,Godesi,51,Food,https://godesi.in/,,2,0,Middle,Bangalore,Karnataka,,,Yes,,No,funded,No,0.5,1,Rejected,0,0,0,0,No,No,0,0.9,180,0,0,no deal,,2.7,Monthly Only,1,1,0
+2,Zenonco,0,Medical/Health,https://zenonco.io/,,2,0,Middle,Jodhpur,Rajasthan,,,Yes,,No,funded,No,1,1,Rejected,0,0,0,0,No,No,0,1,100,0,0,no deal,,0.21,Monthly Only,1,1,0
+3,Wtfgyms,2,Services,https://wtfup.me/,2021,2,1,Middle,Noida,Uttar Pradesh,,,No,,No,funded,No,2,0,No Offer,0,0,0,0,No,No,0,1,50,0,0,no deal,,0.65,Monthly Only,1,1,0
+3,Homversity,3,Technology/Software,https://www.homversity.com/,2022,1,0,Young,Ahmedabad,Gujarat,,,Yes,,No,funded,No,2,0,No Offer,0,0,0,0,No,No,0,0.65,32.5,0,0,no deal,,1,Monthly Only,1,0,0
+3,80Wash,4,Manufacturing,https://80wash.com/,2021,3,0,Middle,Chandigarh,Punjab,,,No,,yes,funded,No,2.5,0,No Offer,0,0,0,0,No,No,0,1,40,0,0,no deal,,,No Data,3,0,0
+3,Wyldcard,8,Technology/Software,https://www.getwyld.in/,2023,3,0,Middle,Mumbai,Maharashtra,,,Yes,,No,funded,No,0.5,1,Accepted,1.5,0,0,1,No,No,0,0.5,100,0.75,50,deal made,,,No Data,3,0,0
+3,Upliance.Ai,8,Furnishing/Household,upliance.ai,2021,2,0,Middle,Bangalore,Karnataka,,,Yes,,yes,funded,No,1,1,Rejected,0,0,0,0,No,No,0,1,100,0,0,no deal,,,No Data,2,0,0
+3,Aicars,9,Vehicles/Electrical Vehicles,https://aicars.in/,2021,1,0,Young,Yavatmal,Maharashtra,,,No,,No,funded,No,4,0,No Offer,0,0,0,0,No,No,0,2,50,0,0,no deal,,,No Data,1,0,0
+3,Rooftopapp,9,Technology/Software,https://rooftopapp.com/,2019,1,0,Middle,Mumbai,Maharashtra,,,Yes,,No,funded,No,4,0,No Offer,0,0,0,0,No,No,0,2,50,0,0,no deal,,,No Data,1,0,0
+3,2Ballz,12,Beauty/Fashion,https://2ballz.com/,2023,3,0,Middle,Indore,Madhya Pradesh,,,No,,No,funded,No,5,0,No Offer,0,0,0,0,No,No,0,0.3,6,0,0,no deal,,1.64,Monthly Only,3,0,0
+3,Walk,14,Medical/Health,https://www.lifesparktech.com/,2018,1,0,Young,Mumbai,Maharashtra,,,No,,yes,funded,No,1.5,1,Accepted,2.3,0,0,2,No,No,0,0.5,33.33333333,0.5,21.73913043,deal made,,,No Data,1,0,0
+3,Without,16,Beauty/Fashion,https://without.live,2020,1,0,Middle,Pune,Maharashtra,,,No,,yes,funded,No,1,1,Accepted,3,0,0,2,No,No,0,0.75,75,0.75,25,deal made,,,No Data,1,0,0
+3,Hyperlab,18,Sports,https://www.hyperlab.life/,2023,3,0,Young,Ahmedabad,Gujarat,,,No,,yes,funded,No,1,1,Accepted,1,0,0,1,No,No,0,0.1,10,0.25,25,deal made,,,No Data,3,0,0
+3,Orbo,20,Technology/Software,https://www.orbo.ai/,2019,3,0,Middle,Mumbai,Maharashtra,,,Yes,,No,funded,No,0.75,1,Accepted,1,0,0,1,yes,No,0,1,133.3333333,1,100,deal made,,0.18,Monthly Only,3,0,0
+3,Therageroom,23,Services,https://rageroom.in/,2022,1,0,Middle,Hyderabad,Telangana,,,No,,No,funded,No,30,0,No Offer,0,0,0,0,No,No,0,0.2,0.666666667,0,0,no deal,,,No Data,1,0,0
+3,Aastey,23,Beauty/Fashion,https://aastey.com/,2021,2,0,Middle,"Delhi,Mumbai","Delhi,Maharashtra",,,No,,No,funded,No,2,0,No Offer,0,0,0,0,No,No,0,0.8,40,0,0,no deal,,1.5,Monthly Only,0,2,0
+3,Matri,24,Medical/Health,https://getmatri.com/,,2,0,Middle,Kolkata,West Bengal,,,No,,yes,funded,No,4,1,Accepted,4,0,0,2,No,No,0,0.6,15,0.6,15,deal made,,,No Data,2,0,0
+3,Tohands,25,Technology/Software,https://smart.tohands.in/,2023,3,0,Young,"Erode,Kanpur","Tamil Nadu,Uttar Pradesh",,,No,,No,funded,No,1,1,Accepted,2,0,0,2,No,No,0,0.55,55,0.6,30,deal made,,,No Data,3,0,0
+3,Plusgold,25,Technology/Software,https://plusgold.in/,,2,0,Middle,Bangalore,Karnataka,,,No,,No,funded,No,1,1,Accepted,1.5,0,0,1,No,No,0,0.6,60,0.6,40,deal made,,,No Data,2,0,0
+3,Polishmepretty,27,Beauty/Fashion,https://www.polishmepretty.in/,2022,1,0,Young,Pune,Maharashtra,,,No,,No,funded,No,25,1,Accepted,25,0,0,1,No,No,0,0.25,1,0.25,1,deal made,,,No Data,0,1,0
+3,Cervicheck,29,Medical/Health,https://pragmatech.co.in/cervicheck/,2019,2,1,Middle,Vadodara,Gujarat,,,No,,yes,funded,No,1.5,1,Accepted,5,0,0,1,No,No,0,0.75,50,0.75,15,deal made,,,No Data,1,1,0
+3,Chaltefirtemangalkaryalay,30,Services,,2023,3,1,Middle,Latur,Maharashtra,,,No,,No,funded,No,10,0,No Offer,0,0,0,0,No,No,0,2,20,0,0,no deal,,,No Data,2,1,0
+3,Modelverse,31,Technology/Software,https://www.modelverse.in/,2023,1,0,Young,Kozhikode,Kerala,,,No,,No,funded,No,10,1,Accepted,10,0,0,3,No,No,0,0.25,2.5,0.25,2.5,deal made,,,No Data,1,0,0
+3,Vikrantbikes,31,Vehicles/Electrical Vehicles,https://vikrantsubhashpawar.website3.me/,,1,0,Young,Satara,Maharashtra,,,No,,No,funded,No,5,0,No Offer,0,0,0,0,No,No,0,0.3,6,0,0,no deal,,,No Data,1,0,0
+3,Mepack,32,Services,https://www.mepackfitness.com/,2023,2,0,Young,Delhi,Delhi,,,No,,No,funded,No,10,1,Accepted,10,0,0,2,yes,No,0,0.07,0.7,0.07,0.7,deal made,,,No Data,2,0,0
+3,Vobble,33,Education,https://www.vobble.fun/,2023,2,0,Middle,Bangalore,Karnataka,,,No,,yes,funded,No,1.5,1,Accepted,2,0,0,1,No,No,0,0.25,16.66666667,0.25,12.5,deal made,,,No Data,0,2,0
+3,Dharaksha,39,Manufacturing,https://www.dharaksha.com/,2020,2,0,Middle,Faridabad,Haryana,,,No,,No,funded,No,1,1,Accepted,1,0,0,5,No,No,0,0.000125,0.0125,0.000125,0.0125,deal made,,,No Data,2,0,0
+3,Maplepods,41,Services,https://www.maplepods.com/,2021,1,0,Middle,Delhi,Delhi,,,No,,No,funded,No,5,0,No Offer,0,0,0,0,No,No,0,1.5,30,0,0,no deal,,,No Data,1,0,0
+3,Roadpilot,50,Technology/Software,https://roadpilot.co.in/,2021,2,,Middle,Lucknow,Uttar Pradesh,,,No,,No,funded,No,5,0,No Offer,0,0,0,0,No,No,0,0.8,16,0,0,no deal,,,No Data,1,1,0
+3,Smartmop,51,Furnishing/Household,https://www.smartmop.in/,2022,2,0,Young,Mysuru,Karnataka,,,No,,yes,funded,No,1,0,No Offer,0,0,0,0,No,No,0,0.15,15,0,0,no deal,,,No Data,2,0,0
+3,$Krishnarama,51,Entertainment,,2023,2,0,Middle,Hyderabad,Telangana,,,No,,No,funded,No,30,0,No Offer,0,0,0,0,No,No,0,2,6.666666667,0,0,no deal,,,No Data,2,0,0
+4,Indulge,1,Technology/Software,https://indulge.global/,,2,0,Middle,Goa,Goa,,,No,,No,funded,No,1,0,No Offer,0,0,0,0,No,No,0,0.5,50,0,0,no deal,,0.3,Monthly Only,1,1,0
+4,Culturecircle,2,Beauty/Fashion,https://www.culture-circle.com/,2023,2,0,Young,Gurugram,Haryana,,,No,,No,funded,No,0.5,1,Accepted,3,0,0,2,No,No,0,1.2,240,3,100,deal made,,0.44,Monthly Only,2,0,0
+4,Nexerahealth,2,Medical/Health,https://nexera.health/,2024,1,0,Young,Jaipur,Rajasthan,,,No,,No,funded,No,1,0,No Offer,0,0,0,0,No,No,0,0.75,75,0,0,no deal,,,No Data,1,0,0
+4,Innergize,5,Medical/Health,https://getinnergize.com/,,3,0,Middle,Delhi,Delhi,,,No,,yes,funded,No,1.5,1,Accepted,4.2,0,0,3,No,No,0,0.54,36,1,23.80952381,deal made,,,No Data,2,1,0
+4,Neosapien,6,Technology/Software,https://neosapien.xyz/,2024,2,0,Young,"Gwalior,Indore",Madhya Pradesh,,,No,,No,funded,No,2.5,1,Accepted,4,0,0,1,No,No,0,0.8,32,0.8,20,deal made,,,No Data,2,0,0
+4,Mudgarclub,7,Sports,https://www.mudgarclub.com/,2023,2,0,Middle,,Haryana,,,No,,No,funded,No,10,1,Accepted,12.5,0,0,1,No,No,0,0.5,5,0.5,4,deal made,,0.1,Monthly Only,2,0,0
+4,Beastlife,8,Medical/Health,https://beastlife.in/,2024,2,0,Middle,"Kanpur,Lucknow",Uttar Pradesh,,,No,,No,funded,No,1,0,No Offer,0,0,0,0,No,No,0,1,100,0,0,no deal,,0.23,Monthly Only,2,0,0
+4,Projectclay,10,Education,https://www.projectclay.com/,,2,0,Young,Goa,Goa,,,No,,No,funded,No,10,1,Accepted,10,0,0,1,No,No,0,0.15,1.5,0.15,1.5,deal made,,,No Data,1,1,0
+4,Denibikes,10,Vehicles/Electrical Vehicles,,,1,0,Young,Pune,Maharashtra,,,No,,No,funded,No,10,0,No Offer,0,0,0,0,No,No,0,0.3,3,0,0,no deal,,,No Data,1,0,0
+1,Kineer,0,Food,https://www.kineerblessed.com/,2018,2,0,Middle,Pune,Maharashtra,,,No,,No,funded,No,10,0,No Offer,0,0,0,0,No,No,0,1,10,0,0,no deal,,0.02,Monthly Only,1,0,1
+1,Glii,0,Services,https://www.glii.in/,2021,4,0,Middle,Noida,Uttar Pradesh,,,No,,No,funded,No,4,0,No Offer,0,0,0,0,No,No,0,0.4,10,0,0,no deal,,,No Data,3,0,1
+3,Houseofbeautyindia,22,Beauty/Fashion,https://houseofbeautyindia.com/,2021,1,0,Middle,Delhi,Delhi,,,No,,No,yes,No,5,0,No Offer,0,0,0,0,No,No,0,1.5,30,0,0,no deal,,0.4,Monthly Only,0,1,0
+3,Myracle.Io,37,Technology/Software,https://www.myracle.io/,2021,1,0,Middle,Mumbai,Maharashtra,,,No,,No,yes,No,3,0,No Offer,0,0,0,0,No,No,0,1.2,40,0,0,no deal,,,No Data,1,0,0
+3,Aikavach/Panoplia,5,Technology/Software,https://kavach.co.in/,2023,1,0,Middle,Hyderabad,Telangana,,,No,,yes,funded,No,1.25,1,Accepted,2.5,0,0,2,yes,No,2.5,0.5,40,1,40,deal made,,,No Data,0,1,0
+1,Nocd,3,Food,https://www.jouleshealth.com/,2019,2,0,Middle,Bangalore,Karnataka,,,No,,No,funded,No,2,1,Accepted,15,30,0,1,yes,No,0,0.5,25,0.2,1.33,deal made,,0.2,Monthly Only,2,0,0
+1,Pntrobotics,15,Technology/Software,https://pntsolutions.in/,2021,2,0,Young,Mumbai,Maharashtra,,,No,,No,funded,No,4,1,Accepted,25,25,0,1,yes,No,0,0.5,12.5,0.25,1,deal made,,,No Data,2,0,0
+1,Otua,18,Vehicles/Electrical Vehicles,https://www.danderaelectric.com/,2018,2,0,Middle,Gurgaon,Haryana,,,No,,No,funded,No,1,1,Accepted,1,99,12,1,No,No,0,1,100,0.01,1,deal made,,,No Data,2,0,0
+1,Sid07Designs,21,Hardware,https://sid07designs.com/,2018,1,0,Young,Jammu,Jammu & Kashmir,,,No,,yes,funded,No,10,1,Accepted,75,22,0,1,No,No,0,0.47,4.7,0.25,0.33,deal made,,0.01,Monthly Only,1,0,0
+2,Watchoutwearables,2,Electronics,https://www.watchoutwearables.com/,2021,2,0,Young,Thane,Maharashtra,,,No,,No,funded,No,5,1,Accepted,10,100,0,2,No,No,0,2,40,1,10,deal made,,0.25,Monthly Only,2,0,0
+2,Stage,3,Entertainment,https://www.stage.in/,,3,0,Young,"Bhiwani,Barnagar","Haryana,Madhya Pradesh",,,No,,No,funded,No,1,1,Accepted,0.6,150,0,3,No,No,0,3,300,1.5,250,deal made,,,No Data,3,0,0
+2,Ayusynk,7,Medical/Health,https://www.ayudevices.com/,,3,0,Middle,Mumbai,Maharashtra,,,No,,No,funded,No,1.5,1,Accepted,3.5,50,10,1,No,No,0,1,66.66666667,0.5,14.28571429,deal made,,,No Data,3,0,0
+2,Freebowler,10,Sports,https://freebowler.com/,,2,0,Middle,Bangalore,Karnataka,,,No,,No,funded,No,7.5,1,Accepted,7.5,50,10,1,No,No,0,0.75,10,0.25,3.333333333,deal made,,,No Data,2,0,0
+2,Dailydump,11,Manufacturing,https://www.dailydump.org/,2006,2,0,Middle,Bangalore,Karnataka,,,No,,No,funded,No,4,1,Accepted,4,50,10,1,No,No,0,0.8,20,0.3,7.5,deal made,,,No Data,1,1,0
+2,Vsmani,16,Food,https://vsmani.com/,2020,3,0,Middle,Bangalore,Karnataka,,,Yes,,No,funded,No,1.5,1,Accepted,1,41,10,1,No,No,0,0.6,40,0.19,19,deal made,,0.63,Monthly Only,3,0,0
+2,Ubreathe,32,Manufacturing,https://www.ubreathe.in/,,2,0,Middle,Gurgaon,Haryana,,,No,,No,funded,No,7.5,1,Accepted,5,100,10,1,No,No,0,1.5,20,0.5,10,deal made,,,No Data,2,0,0
+2,Imumz,33,Medical/Health,https://www.imumz.com/,2020,3,0,Middle,Bangalore,Karnataka,,,No,,No,funded,No,1,1,Accepted,1,60,10,1,No,No,0,0.7,70,0.1,10,deal made,,,No Data,2,1,0
+2,Subhag,45,Medical/Health,https://subhag.in/,,3,0,Middle,"Jhumri Telaiya,Raipur","Jharkhand,Chhattisgarh",,,No,,yes,funded,No,1,1,Accepted,1,30,10,1,No,No,0,0.5,50,0.2,20,deal made,,0,Monthly Only,3,0,0
+2,Maisha,49,Beauty/Fashion,https://maishalifestyle.com/,2018,3,0,Middle,Ahmedabad,Gujarat,,,No,,No,funded,No,3,1,Accepted,1,65,18,1,No,No,0,0.75,25,0.1,10,deal made,,,No Data,2,1,0
+2,Tac,51,Beauty/Fashion,https://theayurvedaco.com/,,2,1,Middle,Mumbai,Maharashtra,,,Yes,,No,funded,No,0.5,1,Accepted,1,69,12,2,No,No,0,1.5,300,0.81,81,deal made,,,No Data,1,1,0
+3,Rodbez,3,Vehicles/Electrical Vehicles,https://rodbez.in/,2022,2,0,Middle,Saharsa,Bihar,,,Yes,,No,funded,No,5,1,Accepted,5,30,12,2,No,No,0,0.5,10,0.2,4,deal made,,0.06,Monthly Only,2,0,0
+3,Rockpaperrum,39,Liquor/Beverages,https://www.rockpaperrum.com/,2022,1,0,Middle,Mumbai,Maharashtra,,,Yes,,No,funded,No,2,1,Accepted,1,30,10,1,No,No,0,0.5,25,0.2,20,deal made,,,No Data,1,0,0
+3,Nemaai,41,Technology/Software,https://nemaai.com/,2023,1,0,Middle,Delhi,Delhi,,,No,,No,funded,No,5,1,Accepted,8,40,10,2,No,No,0,0.8,16,0.4,5,deal made,,0.003,Monthly Only,0,1,0
+3,Kaabilkids,42,Technology/Software,https://kaabilkids.com/,2019,3,0,Middle,Noida,Uttar Pradesh,,,Yes,,No,funded,No,2,1,Accepted,2.5,20,12,2,No,No,0,0.7,35,0.5,20,deal made,,0.29,Monthly Only,2,1,0
+1,Arrcoatsurfacetextures,11,Manufacturing,https://www.arrcoat.com/,2019,3,0,Middle,Delhi,Delhi,,20,No,,No,funded,No,5,1,Accepted,15,0,0,1,yes,No,0,0.5,10,0.5,3.33,deal made,,0.06,Monthly Only,3,0,0
+2,Twistingscoops,40,Food,https://twistingscoops.com/,,2,0,Young,Delhi,Delhi,,40,No,,No,funded,No,2.5,1,Rejected,0,0,0,0,No,No,0,1,40,0,0,no deal,,,No Data,2,0,0
+4,Nooe,3,Technology/Software,https://nooe.co/,2022,2,0,Middle,"Delhi,Pune","Delhi,Maharashtra",,40,Yes,,No,funded,No,1,1,Accepted,51,0,0,1,yes,No,0,0.5,50,5,9.803921569,deal made,,0.5,Monthly Only,1,1,0
+1,Jhajiachaar,4,Food,https://www.jhajistore.com/,2021,2,0,Old,Darbhanga,Bihar,18,,No,,No,funded,No,10,1,Accepted,5.62,0,0,2,No,No,0,0.5,5,0.566,10.07,deal made,,0.05,Monthly Only,0,2,0
+1,Kabirahandmad,9,Food,https://www.kabirafoods.com/,1998,2,1,Middle,Jaipur,Rajasthan,3,1,No,,No,funded,No,5,1,Rejected,0,0,0,0,No,No,0,1,20,0,0,no deal,,1.6,Monthly Only,1,1,0
+1,Nuutjob,10,Beauty/Fashion,https://nuutjob.com/,2021,2,0,Young,Ahmedabad,Gujarat,70,,No,,No,funded,No,5,1,Accepted,20,0,0,3,No,No,0,0.25,5,0.25,1.25,deal made,,2.0E-05,Monthly Only,0,2,0
+1,Farda,11,Beauty/Fashion,https://fardaclothing.com/,2021,2,0,Young,Nagpur,Maharashtra,115,,No,,No,funded,No,10,1,Accepted,20,0,0,2,No,No,0,0.3,3,0.3,1.5,deal made,,0.0032,Monthly Only,1,1,0
+1,Hairoriginals,22,Beauty/Fashion,https://www.hairoriginals.in/,2019,3,0,Middle,Gurgaon,Haryana,62,,No,,No,funded,No,2,1,Accepted,4,0,0,3,No,No,0,0.6,30,0.6,15,deal made,,0.55,Monthly Only,3,0,0
+1,Poo-De-Cologne,22,Beauty/Fashion,https://www.poodecologne.com/,2021,1,0,Middle,Mumbai,Maharashtra,150,,No,,No,funded,No,5,0,No Offer,0,0,0,0,No,No,0,0.75,15,0,0,no deal,,0.0075,Monthly Only,0,1,0
+1,Falhari,22,Food,https://falhari.com/,2015,3,0,Middle,Gurgaon,Haryana,25,,No,,No,funded,No,2,1,Rejected,0,0,0,0,No,No,0,0.5,25,0,0,no deal,,0.01,Monthly Only,3,0,0
+1,Thesassbar,24,Beauty/Fashion,https://www.thesassbar.com/,2019,1,0,Young,Mumbai,Maharashtra,65,55,No,,No,funded,No,8,1,Accepted,35,0,0,2,No,No,0,0.4,5,0.5,1.43,deal made,,0.07,Monthly Only,0,1,0
+1,Alpino,25,Food,https://alpino.store/,2016,4,0,Young,Surat,Gujarat,38,,Yes,,No,funded,No,2,1,Rejected,0,0,0,0,No,No,0,1.5,75,0,0,no deal,,,No Data,4,0,0
+1,Nomadfoodproject,34,Food,https://nomadfoodproject.com/,2019,2,0,Young,"Delhi,Pune","Delhi,Maharashtra",70,,No,,No,funded,No,10,1,Accepted,20,0,0,4,No,No,0,0.4,4,0.4,2,deal made,,0.03,Monthly Only,2,0,0
+1,Greenprotein,34,Food,https://greenprotein.co.in/,2019,2,1,Middle,Mumbai,Maharashtra,40,,No,,No,funded,No,2,1,Rejected,0,0,0,0,No,No,0,0.6,30,0,0,no deal,,0.12,Monthly Only,1,1,0
+1,Pichem,0,Manufacturing,http://www.pichem.in/,2021,1,0,Young,Lucknow,Uttar Pradesh,50,,No,,No,funded,No,5,0,No Offer,0,0,0,0,No,No,0,0.4,8,0,0,no deal,,0.0177,Monthly Only,1,0,0
+1,Gizmoswala,0,Entertainment,https://www.gizmoswala.com/,2020,3,0,Middle,Mumbai,Maharashtra,40,,No,,No,funded,No,5,0,No Offer,0,0,0,0,No,No,0,0.75,15,0,0,no deal,,0.07,Monthly Only,2,1,0
+1,Bandsandcups,0,Beauty/Fashion,https://www.bandsandcups.com/,2021,1,0,Middle,Chennai,Tamil Nadu,60,,No,,No,funded,No,10,0,No Offer,0,0,0,0,No,No,0,0.4,4,0,0,no deal,,0.01,Monthly Only,0,1,0
+2,Soupx,2,Food,https://www.soupx.in/,,2,0,Young,Delhi,Delhi,45,,Yes,,No,funded,No,6,1,Accepted,18,25,0,1,No,No,0,0.75,12.5,0.5,2.777777778,deal made,,,No Data,2,0,0
+2,Brandsdaddy,4,Manufacturing,https://www.brandsdaddy.com/,,2,1,Middle,Mumbai,Maharashtra,60,,No,,No,funded,No,5,1,Accepted,5,35,0,1,No,No,0,0.7,14,0.35,7,deal made,,0.12,Monthly Only,1,1,0
+2,Jaipurwatchcompany,12,Manufacturing,https://jaipur.watch/,,1,0,Middle,Jaipur,Rajasthan,75,,No,,No,funded,No,2,0,No Offer,0,0,0,0,No,No,0,0.5,25,0,0,no deal,,,No Data,1,0,0
+2,Dobiee,15,Food,https://www.dobiee.com/,2021,2,0,Middle,Shinde,Maharashtra,23,,No,,No,funded,No,2,1,Accepted,6.5,0,0,1,No,No,0,0.72,36,0.72,11.07692308,deal made,,0.32,Monthly Only,2,0,0
+2,Fastbeetle,15,Services,https://www.fastbeetle.com/,2019,2,0,Young,Srinagar,Jammu & Kashmir,54,,Yes,,No,funded,No,3,1,Accepted,7.5,0,0,2,No,No,0,0.9,30,0.9,12,deal made,,0.25,Monthly Only,2,0,0
+2,Pflow,15,Medical/Health,https://tejnaksh.com/our-domains/healthcare-equipment/p-flow/,2021,2,1,Middle,Dhule,Maharashtra,80,,No,,No,funded,No,1,1,Accepted,6,0,0,2,No,No,0,0.6,60,0.6,10,deal made,,,No Data,1,1,0
+2,Sepal,16,Manufacturing,https://sepal.in/,,2,0,Middle,Hyderabad,Telangana,37,,No,,No,funded,No,1,1,Accepted,2,0,0,1,No,No,0,0.5,50,0.5,25,deal made,,,No Data,2,0,0
+2,Avimeeherbal,17,Beauty/Fashion,https://avimeeherbal.com/,2021,5,1,Middle,Surat,Gujarat,69,,No,,No,funded,No,0.5,1,Rejected,0,0,0,0,No,No,0,2.8,560,0,0,no deal,,1.65,Monthly Only,3,2,0
+2,Eyenic,17,Beauty/Fashion,https://eyenic.in/,2017,2,0,Middle,Delhi,Delhi,45,21,No,,No,funded,No,6,0,No Offer,0,0,0,0,No,No,0,0.75,12.5,0,0,no deal,,0.15,Monthly Only,2,0,0
+2,Ekatra,17,Furnishing/Household,https://ekatrahandmade.com/,2019,2,0,Middle,Kota,Rajasthan,80,28,No,,No,funded,No,10,1,Accepted,20,20,0,2,No,No,0,0.4,4,0.2,1,deal made,,0.05,Monthly Only,0,2,0
+2,Portl,20,Services,https://portl.co/,,3,0,Middle,Hyderabad,Telangana,45,,No,,No,funded,No,1,1,Accepted,2.5,0,0,3,No,No,0,1.5,150,1.5,60,deal made,,,No Data,3,0,0
+2,Sharmajikiaata,25,Food,https://sharmajikaaata.com/,2019,2,0,Middle,Pune,Maharashtra,63,38,No,,No,funded,No,10,1,Accepted,20,0,0,1,No,No,0,0.4,4,0.4,2,deal made,,,No Data,1,1,0
+2,Barosi,29,Food,https://www.barosi.in/,2016,1,0,Middle,Pataudi,Haryana,40,,Yes,,No,funded,No,2,0,No Offer,0,0,0,0,No,No,0,0.5,25,0,0,no deal,,0.42,Monthly Only,1,0,0
+2,Cellbell,30,Furnishing/Household,https://cellbell.in/,2019,3,0,Middle,Ulhasnagar,Maharashtra,52,,No,,No,funded,No,1.5,0,No Offer,0,0,0,0,No,No,0,0.9,60,0,0,no deal,,4,Monthly Only,3,0,0
+2,Pabiben,32,Beauty/Fashion,https://www.pabiben.com/,,2,0,Middle,Ahmedabad,Gujarat,50,35,No,,No,funded,No,5,1,Accepted,5,40,0,1,No,No,0,0.5,10,0.1,2,deal made,,,No Data,1,1,0
+2,Homestrap,32,Furnishing/Household,https://www.homestrap.com/,,2,1,Middle,Indore,Madhya Pradesh,55,,No,,No,funded,No,1,1,Accepted,7,20,10,1,No,No,0,0.7,70,0.5,7.142857143,deal made,,,No Data,1,1,0
+2,Deyor,32,Technology/Software,https://www.deyorcamps.com/,,2,0,Middle,Gurgaon,Haryana,25,5,No,,No,funded,No,1,0,No Offer,0,0,0,0,No,No,0,1,100,0,0,no deal,,,No Data,2,0,0
+2,Freakins,33,Beauty/Fashion,https://freakins.com/,,2,0,Middle,Mumbai,Maharashtra,63,,Yes,,No,funded,No,1,1,Accepted,2.5,20,12,1,yes,No,0,0.7,70,0.5,20,deal made,,,No Data,2,0,0
+2,Perfora,34,Furnishing/Household,https://perforacare.com/,,2,0,Young,"Ballarpur,Karnal","Haryana,Maharashtra",57,,Yes,,No,funded,No,1,1,Accepted,2.5,0,0,3,No,No,0,0.8,80,0.8,32,deal made,,,No Data,2,0,0
+2,Cakelicious,35,Food,,,2,0,Middle,Kolkata,West Bengal,60,40,No,,No,funded,No,5,1,Accepted,20,0,0,1,No,No,0,0.25,5,0.25,1.25,deal made,,0.03,Monthly Only,0,2,0
+2,Vaperfume,39,Furnishing/Household,http://www.vaperfume.com/,,1,0,Middle,Mumbai,Maharashtra,56,35,No,,No,funded,No,10,0,No Offer,0,0,0,0,No,No,0,1,10,0,0,no deal,,,No Data,1,0,0
+2,Growit,40,Agriculture,https://thegrowit.com/,,2,0,Middle,Surat,Gujarat,22,,Yes,,No,funded,No,1,1,Accepted,1,50,10,2,No,No,0,1,100,0.5,50,deal made,,,No Data,2,0,0
+2,Makino,41,Food,https://makino-new.myshopify.com/,2018,4,0,Young,Himmatnagar,Gujarat,40,,No,,No,funded,No,2,0,No Offer,0,0,0,0,No,No,0,2,100,0,0,no deal,,0.025,Monthly Only,4,0,0
+2,Wol3D,41,Manufacturing,https://worldoflilliputs.com/,2016,4,1,Middle,Mumbai,Maharashtra,30,,No,,No,funded,No,1,1,Accepted,2,70,0,1,No,No,0,1.5,150,0.8,40,deal made,,,No Data,2,2,0
+2,Healthymaster,44,Food,https://healthymaster.in/,2019,3,1,Middle,Bangalore,Karnataka,45,,Yes,,No,funded,No,2,1,Accepted,6.5,0,0,1,No,No,0,0.5,25,0.5,7.692307692,deal made,,0.2,Monthly Only,1,2,0
+2,Thehealthyfactory,46,Food,https://www.thehealthfactory.in/,2018,2,0,Young,Mumbai,Maharashtra,56,,Yes,,No,funded,No,2.1,0,No Offer,0,0,0,0,No,No,0,0.75,35.71428571,0,0,no deal,,,No Data,2,0,0
+2,Lilgoodness,48,Food,https://lilgoodness.com/,2020,2,0,Middle,Bangalore,Karnataka,65,,Yes,,No,funded,No,1,1,Accepted,1,50,10,1,No,No,0,1,100,0.5,50,deal made,,1.45,Monthly Only,2,0,0
+2,Naara-Aaba,51,Liquor/Beverages,https://www.naaraaaba.com/,2017,2,1,Middle,Ziro,Arunachal Pradesh,50,18,No,,No,funded,No,2.5,1,Accepted,5,25,10,2,No,No,0,0.75,30,0.5,10,deal made,,,No Data,1,1,0
+3,Goenchifeni,10,Liquor/Beverages,https://www.goenchi.com/homepage/,2023,2,0,Middle,Goa,Goa,42,,No,,No,funded,No,5,1,Accepted,15,0,0,1,No,No,0,1,20,2,13.33333333,deal made,,,No Data,1,1,0
+3,Vold,17,Liquor/Beverages,https://www.voldenergy.in/,,1,0,Young,Ahmednagar,Maharashtra,38,25,No,,No,funded,No,2,1,Accepted,10,40,3,1,No,No,0,0.5,25,0.1,1,deal made,,0.03,Monthly Only,1,0,0
+3,Hoora,18,Technology/Software,https://hoora.in/,2019,2,0,Middle,Nagpur,Maharashtra,60,,No,,yes,funded,No,2,0,No Offer,0,0,0,0,No,No,0,0.8,40,0,0,no deal,,0.31,Monthly Only,2,0,0
+3,Avataarskincare,30,Beauty/Fashion,https://avataarskin.com/,2022,1,0,Middle,Bhopal,Madhya Pradesh,87,,Yes,,No,funded,No,1,1,Accepted,0.5,35,14,2,No,No,0,0.7,70,0.35,70,deal made,,0.6,Monthly Only,0,1,0
+3,Fomo,31,Liquor/Beverages,https://fomobrews.com/,,2,0,Young,Bangalore,Karnataka,50,,No,,No,funded,No,4,1,Accepted,6,0,0,2,No,No,0,0.35,8.75,0.35,5.833333333,deal made,,0.034,Monthly Only,2,0,0
+3,Flexifyme,38,Medical/Health,https://www.flexifyme.com/,2021,2,0,Middle,Pune,Maharashtra,60,,No,,No,funded,No,2,1,Accepted,1.32,50,10,1,No,No,0,1,50,0.5,37.87878788,deal made,,0.33,Monthly Only,2,0,0
+4,Gozero,3,Food,https://letsgozero.in/,2022,1,0,Middle,Mumbai,Maharashtra,70,,Yes,,No,funded,No,1,1,Accepted,1.5,0,0,1,No,No,0,1,100,1,66.66666667,deal made,,3.3,Monthly Only,1,0,0
+4,Prettylittleshop,10,Furnishing/Household,,2021,1,0,Young,Mumbai,Maharashtra,77,62,No,,No,funded,No,10,0,No Offer,0,0,0,0,No,No,0,0.3,3,0,0,no deal,,0.86,Monthly Only,0,1,0
+1,Auli,12,Beauty/Fashion,https://aulilifestyle.com/,2017,1,0,Middle,Kolkata,West Bengal,80,10,No,,No,funded,No,4,1,Accepted,15,0,0,1,No,No,0,0.75,18.75,0.75,5,deal made,2.5,0.16,Both,0,1,0
+1,Kabaddiadda,30,Sports,https://www.kabaddiadda.com/,2019,2,0,Middle,Bangalore,Karnataka,80,30,No,,No,funded,No,1,1,Accepted,6,0,0,2,No,No,0,0.8,80,0.8,13.33,deal made,2.5,,Yearly Only,2,0,0
+2,Bluetea,26,Food,https://bluetea.co.in/,2018,2,0,Middle,"Faridabad,Kolkata","Haryana,West Bengal",,19,No,,No,funded,No,1,1,Accepted,3,25,12,1,No,No,0,0.75,75,0.5,16.66666667,deal made,10,,Yearly Only,2,0,0
+2,Medulance,35,Medical/Health,https://medulance.com/,,2,0,Middle,Delhi,Delhi,,24,No,,No,funded,No,1,1,Accepted,2,0,0,3,No,No,0,2,200,2,100,deal made,2.4,,Yearly Only,2,0,0
+2,Malaki,37,Liquor/Beverages,https://malaki.in/,,2,0,Middle,Mumbai,Maharashtra,56,13,No,,No,funded,No,1,1,Accepted,3,0,0,2,No,No,0,0.5,50,0.5,16.66666667,deal made,2.7,0.42,Both,2,0,0
+2,Nishhair,50,Beauty/Fashion,https://nishhair.com/,2017,1,0,Middle,Mumbai,Maharashtra,,30,No,,No,funded,No,2,1,Accepted,2,0,0,1,No,No,0,1,50,1,50,deal made,6.7,0.8,Both,0,1,0
+2,Stylobug,51,Beauty/Fashion,https://stylobug.com/,,2,,Middle,Delhi,Delhi,,18,No,,No,funded,No,2,1,Accepted,10,0,0,1,No,No,0,0.8,40,0.8,8,deal made,14,0.46,Both,1,1,0
+3,Honesthome,1,Furnishing/Household,https://honesthome.in/,2019,1,0,Middle,Dhampur,Uttar Pradesh,,5,No,,No,funded,No,2,1,Accepted,3,0,0,1,No,yes,0,1,50,1,33.33333333,deal made,14,1.42,Both,1,0,0
+3,Kalakaram,6,Manufacturing,https://kalakaram.com/,2022,1,0,Middle,Gurgaon,Haryana,,23,No,,No,funded,No,2.5,1,Accepted,6,0,0,3,No,No,0,0.5,20,0.6,0,deal made,5,0.5,Both,1,0,0
+3,Tramboo,7,Sports,https://tramboosports.com/,2021,2,0,Young,Srinagar,Jammu & Kashmir,,25,No,,No,funded,No,3,1,Accepted,4,0,0,2,No,No,0,0.3,10,0.3,7.5,deal made,6,0.18,Both,2,0,0
+3,Arata,10,Beauty/Fashion,https://www.arata.in/,2018,2,0,Middle,Delhi,Delhi,,5,No,,No,funded,No,1.25,1,Accepted,1.33,0,0,2,yes,No,0.6,1,80,1,75.18796992,deal made,1.7,2,Both,2,0,0
+3,Alittleextra,15,Beauty/Fashion,https://alittleextra.co.in,,1,0,Middle,Guwahati,Assam,,11,No,,No,funded,No,6,1,Accepted,7.5,0,0,2,No,No,0,0.48,8,0.6,8,deal made,1.22,,Yearly Only,0,1,0
+3,Kibo,16,Technology/Software,https://www.trestlelabs.com/,2019,2,1,Middle,"Faridabad,Ahmedabad","Haryana,Gujarat",,30,No,,yes,funded,No,1,1,Accepted,6,0,0,2,No,No,0,0.6,60,0.6,10,deal made,1.35,,Yearly Only,1,1,0
+3,Chefling,21,Food,https://chefling.in/,,1,0,Young,Mumbai,Maharashtra,70,45,No,,No,funded,No,10,1,Accepted,16,0,0,4,No,No,0,0.4,4,0.4,2.5,deal made,0.2,0.02,Both,1,0,0
+3,Flyrobe,28,Beauty/Fashion,https://flyrobe.com/home/,2020,1,0,Middle,Delhi,Delhi,,16,No,,No,funded,yes,1,1,Accepted,4,0,0,1,No,No,0,0.5,50,0.5,12.5,deal made,2.9,0.63,Both,0,1,0
+3,Wiselife,29,Medical/Health,https://wiselife.in/,2020,2,1,Middle,Gurugram,Haryana,,3,No,,No,funded,No,2,1,Accepted,4,0,0,4,No,No,0,0.6,30,1.2,30,deal made,4,1,Both,1,1,0
+3,Theshellhair,32,Beauty/Fashion,https://theshellhair.com/,2020,1,0,Young,Ajmer,Rajasthan,,35,No,,No,yes,No,3,1,Accepted,3,0,0,1,No,No,0,0.3,10,0.3,10,deal made,1.2,0.0973,Both,0,1,0
+3,Namakwali,35,Food,https://www.namakwali.com/,2018,2,0,Middle,,Uttarakhand,,17,No,,No,funded,No,5,1,Accepted,5,40,8,1,No,No,0,0.5,10,0.1,2,deal made,0.38,0.03,Both,1,1,0
+3,Sama,37,Services,https://www.sama.live/,2015,3,0,Middle,Delhi,"Delhi,Bihar,Kerala",,25,No,,No,funded,No,1,1,Accepted,1.5,0,0,3,No,No,0,1,100,1,66.66666667,deal made,6.4,1,Both,2,1,0
+3,Katidhan,41,Manufacturing,https://katidhan.com/,2020,1,0,Middle,Bangalore,Karnataka,50,30,No,,No,yes,No,2.5,1,Accepted,5,75,10,1,No,No,0,1.5,60,0.75,15,deal made,0.6,,Yearly Only,1,0,0
+3,Specops,42,Others,https://specops.in/,,1,0,Middle,,,20,8,No,,No,yes,No,2,1,Accepted,2,40,12,2,No,No,0,0.8,40,0.4,20,deal made,6.26,0.7,Both,1,0,0
+3,Whysoblue,43,Beauty/Fashion,https://whysobluelove.com/,2015,2,0,Middle,Mumbai,Maharashtra,,10,No,,No,funded,No,3,1,Accepted,3,35,10,1,No,No,0,0.75,25,0.4,13.33333333,deal made,3,,Yearly Only,0,2,0
+3,Popcorn,45,Food,https://pncpopcorn.com/,2019,1,0,Middle,Delhi,Delhi,65,15,No,,No,funded,No,7.5,1,Accepted,15,0,0,1,No,yes,0,0.75,10,0.75,5,deal made,1.8,,Yearly Only,1,0,0
+3,Neonattack,50,Furnishing/Household,https://www.neonattack.com/,2020,2,0,Young,Hyderabad,Telangana,,15,No,,No,funded,No,3,1,Accepted,2,25,0,2,No,yes,0,0.75,25,0.5,25,deal made,10,0.63,Both,2,0,0
+4,Speedkitchen,7,Food,https://speedkitchen.in/,2021,2,0,Middle,Delhi,Delhi,,2,No,,No,yes,No,3,1,Accepted,6,0,0,3,No,No,0,2,66.66666667,2,33.33333333,deal made,5.5,,Yearly Only,2,0,0
+2,Honeyveda,22,Food,https://www.honeyveda.in/,,2,0,Middle,Ahmedabad,Gujarat,20,,No,,No,funded,No,7.5,1,Accepted,20,25,12,2,No,No,0,0.75,10,0.5,2.5,deal made,0.53,,Yearly Only,2,0,0
+2,Swadeshiblessings,23,Furnishing/Household,https://www.swadeshiblessings.in/,2020,3,0,Middle,Udaipur,Rajasthan,60,,No,,No,funded,No,5,1,Accepted,5,25,12,2,No,No,0,0.5,10,0.25,5,deal made,1.2,0.28,Both,1,2,0
+2,Hood,40,Technology/Software,https://www.hood.live/,2022,3,0,Middle,Gurgaon,Haryana,,,No,,No,funded,No,0.2,1,Accepted,0.54,60,12,2,No,No,0,1.2,600,0.6,111.1111111,deal made,0,,Yearly Only,3,0,0
+2,Aadvik,43,Food,https://aadvikfoods.com/,,2,0,Middle,Delhi,Delhi,,,No,,No,funded,No,1.5,1,Accepted,1.5,45,12,1,No,No,0,0.6,40,0.15,10,deal made,7.2,0.5,Both,2,0,0
+2,Nutricook,45,Food,https://www.nutricookindia.com/,,2,0,Middle,"Bangalore,Punganur","Karnataka,Andhra Pradesh",,,No,,No,funded,No,2,1,Accepted,10,50,12,1,No,No,0,1,50,0.5,5,deal made,0.13,,Yearly Only,1,1,0
+2,Rubans,48,Beauty/Fashion,https://www.rubans.in/,2014,2,1,Middle,Bangalore,Karnataka,,,No,,No,funded,No,0.5,1,Accepted,1,50,12,3,No,No,0,1.5,300,1,100,deal made,51,,Yearly Only,1,1,0
+3,Vecros,10,Technology/Software,https://vecros.com/,2018,2,0,Young,Delhi,Delhi,,,No,,No,funded,No,2.5,1,Accepted,1,80,10,1,No,No,0,1,40,0.2,20,deal made,0,0.09,Both,1,1,0
+3,Toffeecoffeeroasters,19,Liquor/Beverages,https://toffeecoffeeroasters.com/,2019,2,1,Middle,Bangalore,Karnataka,62,,Yes,,No,funded,No,2,1,Accepted,2.33,25,10,1,No,No,0,0.6,30,0.35,15.02145923,deal made,2.3,0.33,Both,1,1,0
+3,Aristavault,25,Manufacturing,https://www.aristavault.com/,2018,2,,Middle,Delhi,Delhi,,,No,,No,funded,No,1.5,1,Accepted,1,25,18,1,yes,No,0,0.45,30,0.2,20,deal made,3.6,0.65,Both,1,1,0
+3,Niblerzz,34,Food,https://niblerzz.com/,2022,2,0,Middle,Mumbai,Maharashtra,,,Yes,,No,yes,No,3,1,Accepted,5,40,10,1,No,No,0,0.5,16.66666667,0.1,2,deal made,0.16,0.055,Both,0,2,0
+3,Deeva,36,Beauty/Fashion,https://thedeeva.com/,2021,1,0,Middle,Bangana,Himachal Pradesh,60,,No,,No,funded,No,4,1,Accepted,6,125,10,3,No,No,0,2,50,0.75,12.5,deal made,7,0.58,Both,1,0,0
+3,Idreamcareer,39,Technology/Software,https://idreamcareer.com/,2012,2,0,Middle,"Delhi,Bangalore","Delhi,Karnataka",,,Yes,,No,funded,No,1.28,1,Accepted,1,50,8,2,yes,No,0,1.1,85.9375,0.6,60,deal made,8.4,,Yearly Only,2,0,0
+3,Smotect,40,Medical/Health,https://www.smotect.com/,2022,1,0,Middle,Mumbai,Maharashtra,80,,No,,No,yes,No,1,1,Accepted,5,50,15,1,yes,No,0,1,100,0.5,10,deal made,2.81,1,Both,1,0,0
+3,Nemocare,43,Medical/Health,https://nemocare.in/,2016,2,0,Middle,"Hyderabad,Bangalore","Telangana,Karnataka",66,,Yes,,yes,funded,No,2.5,1,Accepted,0.67,80,10,1,No,No,0,1,40,0.2,29.85074627,deal made,0.9,,Yearly Only,1,1,0
+3,Prorata,45,Services,https://www.proratacar.com/,2022,1,0,Middle,Bangalore,Karnataka,,,No,,No,funded,No,2,1,Accepted,10,50,14,2,No,No,0,1,50,0.5,5,deal made,0,,Yearly Only,1,0,0
+3,Rocca,46,Food,https://myrocca.in/,2019,2,0,Young,Nagpur,Maharashtra,60,,No,,No,funded,No,4,1,Accepted,2.5,30,9,1,No,No,0,0.6,15,0.3,12,deal made,2.5,0.095,Both,1,1,0
+4,Nurturinggreen,9,Furnishing/Household,https://nurturinggreen.in/,2010,1,0,Middle,Lucknow,Uttar Pradesh,,,No,,No,funded,yes,1,1,Accepted,1.25,50,10,1,No,No,0,1,100,0.5,40,deal made,28,4,Both,1,0,0
+3,Wehear,7,Medical/Health,https://wehear.in/,2017,2,0,Middle,Ahmedabad,Gujarat,,,No,,yes,funded,No,1,1,Accepted,1,0,0,1,yes,No,1.5,2.5,250,2.5,250,deal made,2.82,0.93,Both,2,0,0
+1,Bluepinefoods,1,Food,https://bluepinefoods.com/,2016,3,0,Middle,Delhi,Delhi,,,No,,No,funded,No,5,1,Accepted,16,0,0,3,No,No,0,0.5,10,0.75,4.69,deal made,0.95,0.08,Both,2,1,0
+1,Boozscooters,1,Vehicles/Electrical Vehicles,https://www.boozup.net/,2017,1,0,Young,Ahmedabad,Gujarat,,,No,,No,funded,No,15,1,Accepted,50,0,0,2,No,No,0,0.4,2.67,0.4,0.8,deal made,0.04,0.004,Both,1,0,0
+1,Tagzfoods,2,Food,https://tagzfoods.com/,2019,2,0,Middle,Bangalore,Karnataka,48,,No,,No,funded,No,1,1,Accepted,2.75,0,0,1,No,No,0,0.7,70,0.7,25.45,deal made,7,,Yearly Only,2,0,0
+1,Bummer,4,Beauty/Fashion,https://bummer.in/,2020,1,0,Young,Ahmedabad,Gujarat,70,,No,,No,funded,No,4,1,Accepted,7.5,0,0,2,No,No,0,0.75,18.75,0.75,10,deal made,0.36,0.15,Both,1,0,0
+1,Menstrupedia,6,Education,https://www.menstrupedia.com/,2012,2,1,Middle,Ahmedabad,Gujarat,27,,No,,No,funded,No,10,1,Accepted,20,0,0,1,No,No,0,0.5,5,0.5,2.5,deal made,1.15,,Yearly Only,1,1,0
+1,Raisingsuperstars,7,Education,https://raisingsuperstars.com/india-page,2020,2,1,Middle,Gurgaon,Haryana,,,No,,No,funded,No,2,1,Accepted,4,0,0,2,No,No,0,1,50,1,25,deal made,13,,Yearly Only,1,1,0
+1,Beyondsnack,8,Food,https://www.beyondsnack.in/,2020,1,0,Middle,Thiruvananthapuram,Kerala,51,,No,,No,funded,No,2.5,1,Accepted,2.5,0,0,2,No,No,0,0.5,20,0.5,20,deal made,0.6,0.206,Both,1,0,0
+1,Vivalyfinnovations,8,Medical/Health,https://vivalyf.in/,2021,2,0,Young,Hyderabad,Telangana,,,No,,No,funded,No,7.5,1,Accepted,33.33,0,0,2,No,No,0,0.56,7.47,0.56,1.68,deal made,0,,Yearly Only,1,1,0
+1,Motionbreeze,8,Vehicles/Electrical Vehicles,https://www.motionautomotive.in/,2018,4,0,Middle,Vadodara,Gujarat,,,No,,yes,funded,No,3,1,Accepted,6,0,0,1,No,No,0,0.3,10,0.3,5,deal made,0,,Yearly Only,4,0,0
+1,Ariro,9,Manufacturing,https://arirotoys.com/,2020,2,1,Young,Chennai,Tamil Nadu,50,,No,,No,funded,No,2.5,1,Accepted,10,0,0,2,No,No,0,0.5,20,0.5,5,deal made,3,0.25,Both,1,1,0
+1,Meatyour,10,Food,https://meatyour.com/,2020,3,0,Middle,Pune,Maharashtra,30,,No,,No,funded,No,5,1,Accepted,20,0,0,3,yes,No,0,0.3,6,0.3,1.5,deal made,1.3,0.028,Both,3,0,0
+1,Eventbeep,10,Education,https://www.eventbeep.com/,2019,3,0,Young,Pune,Maharashtra,,,No,,No,funded,No,2,1,Accepted,3,0,0,3,No,No,0,0.3,15,0.3,10,deal made,1.2,,Yearly Only,2,1,0
+1,Annie,13,Education,https://www.thinkerbelllabs.com/annie,2016,4,1,Young,Bangalore,Karnataka,50,,No,,No,funded,No,0.5,1,Accepted,3,0,0,3,No,No,0,0.3,60,1.05,35,deal made,5,0.04,Both,3,1,0
+1,Theyarnbazaar,13,Manufacturing,https://theyarnbazaar.com/,2019,1,0,Middle,Mumbai,Maharashtra,,,No,,No,funded,No,2,1,Accepted,10,0,0,4,No,No,0,0.5,25,1,10,deal made,1.8,,Yearly Only,1,0,0
+1,Therenalproject,14,Medical/Health,https://www.therenalproject.com/,2019,1,0,Middle,Mumbai,Maharashtra,,,No,,No,funded,No,3,1,Accepted,6,0,0,2,No,No,0,1,33.33,1,16.67,deal made,3,,Yearly Only,1,0,0
+1,Cocofit,15,Food,https://www.cocofit.in/,2019,3,0,Middle,Hyderabad,Telangana,95,,No,,No,funded,No,5,1,Accepted,5,0,0,3,No,No,0,0.0000005,0,0.0000005,0,deal made,1,,Yearly Only,3,0,0
+1,Bambooindia,16,Manufacturing,https://www.bambooindia.com/,2016,2,1,Middle,Pune,Maharashtra,,,No,,No,funded,No,4,1,Accepted,3.5,30,0,2,No,No,0,0.8,20,0.5,14.29,deal made,3.8,0.2,Both,1,1,0
+1,Aasvidyalaya,17,Education,https://www.aasvidyalaya.com/,2019,2,1,Middle,Mumbai,Maharashtra,,,No,,No,funded,No,3,1,Accepted,15,0,0,3,No,No,0,1.5,50,1.5,10,deal made,1.5,,Yearly Only,1,1,0
+1,Roadbounce,17,Technology/Software,https://www.roadbounce.com/,2016,1,0,Middle,Pune,Maharashtra,,,No,,yes,funded,No,10,1,Accepted,20,0,0,1,No,No,0,0.8,8,0.8,4,deal made,2.5,,Yearly Only,1,0,0
+1,Westock,19,Animal/Pets,https://www.brainwired.in/,2018,2,0,Middle,Ernakulam,Kerala,,,No,,No,funded,No,5,1,Accepted,10,0,0,4,No,No,0,0.5,10,0.6,6,deal made,0.54,,Yearly Only,2,0,0
+1,Kgagrotech,24,Agriculture,https://www.instagram.com/jugaadu_kamlesh/,2022,2,0,Young,Malegaon,Maharashtra,,,No,,No,funded,No,10,1,Accepted,40,20,0,1,No,No,0,0.3,3,0.1,0.25,deal made,0,,Yearly Only,2,0,0
+1,Sunfoxtechnologies,25,Medical/Health,https://www.sunfox.in/,2016,4,0,Young,Dehradun,Uttarakhand,,,No,,No,funded,No,2,1,Accepted,6,0,0,5,No,No,0,1,50,1,16.67,deal made,1.2,0.05,Both,4,0,0
+1,Insurancesamadhan,27,Services,https://www.insurancesamadhan.com/,2016,3,0,Middle,Noida,Uttar Pradesh,,,No,,No,funded,No,1,1,Accepted,4,0,0,1,No,No,0,1,100,1,25,deal made,1.04,0.22,Both,2,1,0
+1,Humpya2,28,Food,https://humpyfarms.com/,2017,3,0,Middle,Pune,Maharashtra,44,,No,,No,funded,No,4,1,Accepted,15,0,0,3,No,No,0,0.75,18.75,1,6.67,deal made,2.08,,Yearly Only,2,1,0
+1,Goldsafesolutions,28,Manufacturing,https://www.goldlife.co.in/,2017,2,0,Middle,Mumbai,Maharashtra,25,,No,,No,funded,No,5,1,Accepted,30,0,0,3,No,No,0,0.5,10,0.5,1.67,deal made,0.6,,Yearly Only,2,0,0
+1,Wakaofoods,29,Food,https://wakaofoods.com/,2021,1,0,Middle,Goa,Goa,,,No,,No,funded,No,5,1,Accepted,21,0,0,3,No,No,0,0.75,15,0.75,3.57,deal made,0.72,0.06,Both,1,0,0
+1,Growfitter,32,Technology/Software,https://www.growfitter.com/,2021,2,0,Middle,Mumbai,Maharashtra,,,Yes,,No,funded,No,1,1,Accepted,2,0,0,1,yes,No,0,0.5,50,0.5,25,deal made,1.7,,Yearly Only,2,0,0
+1,Storemygoods,36,Services,https://storemygoods.in/,2020,3,1,Middle,Noida,Uttar Pradesh,,,No,,No,funded,No,1.75,1,Accepted,4,50,0,2,No,No,0,1,57.14,0.5,12.5,deal made,1,,Yearly Only,2,1,0
+2,Verymuchindian,2,Beauty/Fashion,https://www.verymuchindian.com/,2018,2,1,Middle,Pune,Maharashtra,35,,No,,No,funded,No,3,1,Accepted,10,0,0,2,No,No,0,0.5,16.67,0.5,5,deal made,1.5,,Yearly Only,1,1,0
+2,Paradyes,9,Beauty/Fashion,https://www.birdsofparadyes.com/,2020,2,1,Young,Ahmedabad,Gujarat,,,No,,No,funded,No,1,1,Accepted,2,0,0,2,No,No,0,0.65,65,0.65,32.5,deal made,3.5,,Yearly Only,1,1,0
+2,Zillionaire,10,Beauty/Fashion,https://zillionaireindia.com/,,2,0,Young,Jaipur,Rajasthan,,,No,,No,funded,No,3.3,1,Accepted,10,0,0,1,No,No,0,0.5,15.15151515,1,10,deal made,1,,Yearly Only,2,0,0
+2,Solinas,16,Services,https://solinas.in/,2020,4,0,Middle,Chennai,Tamil Nadu,,,No,,No,funded,No,2,1,Accepted,3,0,0,2,No,No,0,0.9,45,0.9,30,deal made,1.2,,Yearly Only,3,1,0
+2,Neomotion,18,Manufacturing,https://www.neomotion.in/,2020,3,0,Middle,Chennai,Tamil Nadu,,,No,,No,funded,No,1,1,Accepted,1,0,0,1,No,No,0,1,100,1,100,deal made,4.7,,Yearly Only,3,0,0
+2,Licksters,18,Food,https://www.licksters.com/,,2,1,Middle,Nagpur,Maharashtra,,,No,,No,funded,No,5,1,Accepted,5,25,0,1,No,No,0,0.5,10,0.25,5,deal made,0.86,0.14,Both,1,1,0
+2,Spicestory,19,Food,https://spice-story.in/,2019,3,0,Middle,Mumbai,Maharashtra,,,No,,No,funded,No,2,1,Accepted,5,0,0,1,No,No,0,0.7,35,0.7,14,deal made,4.1,0.57,Both,2,1,0
+2,Dabble,21,Manufacturing,https://dabbleplayart.com/,,2,0,Middle,Bangalore,Karnataka,75,,No,,No,funded,No,10,1,Accepted,10,35,0,1,No,No,0,0.5,5,0.15,1.5,deal made,0.33,0.087,Both,0,2,0
+2,Scrapuncle,25,Services,https://scrapuncle.com/,2020,1,0,Young,Delhi,Delhi,25,,No,,No,funded,No,3,1,Accepted,5,0,0,1,No,No,0,0.6,20,0.6,12,deal made,6,,Yearly Only,1,0,0
+2,Manetain,25,Beauty/Fashion,https://manetain.in/,,2,0,Young,"Cochin,Mumbai","Kerala,Maharashtra",60,,No,,No,funded,No,2.5,1,Accepted,10,0,0,1,No,No,0,0.75,30,0.75,7.5,deal made,1,0.12,Both,0,2,0
+2,Unstop,26,Technology/Software,https://unstop.com/,2022,1,0,Middle,Delhi,Delhi,90,,No,,No,funded,No,1,1,Accepted,4,0,0,4,No,No,0,1,100,2,50,deal made,16,,Yearly Only,1,0,0
+2,Curesee,34,Medical/Health,https://curesee.com/,2019,3,0,Middle,Gurgaon,Haryana,,,No,,No,funded,No,5,1,Accepted,10,0,0,1,No,No,0,0.4,8,0.5,5,deal made,0,2.64,Both,3,0,0
+2,Holokitab,36,Technology/Software,https://www.holokitab.in/,,2,0,Middle,Jalandhar,Punjab,,,No,,No,funded,No,10,1,Accepted,25,0,0,1,yes,No,0,0.45,4.5,0.45,1.8,deal made,0,,Yearly Only,2,0,0
+3,Adilqadri,1,Beauty/Fashion,https://www.adilqadri.com/,2020,1,0,Young,Bilimora,Gujarat,70,,Yes,,No,funded,No,0.5,1,Accepted,1,0,0,1,No,yes,0,1,200,1,100,deal made,20.7,6,Both,1,0,0
+3,Thecinnamonkitchen,2,Food,https://cinnamon.kitchen/,2019,1,0,Middle,Chandigarh,Punjab,,,No,,No,funded,No,2,1,Accepted,5,0,0,1,No,No,0,0.6,30,0.6,12,deal made,0.82,,Yearly Only,0,1,0
+3,Intervue,2,Technology/Software,https://www.intervue.io/,2020,2,0,Young,"Ludhiana,Ghaziabad","Punjab,Uttar Pradesh",,,No,,No,funded,No,1,1,Accepted,2,0,0,1,No,No,0,1.5,150,1.5,75,deal made,8.7,,Yearly Only,2,0,0
+3,Blix,3,Technology/Software,https://blix.in/,2021,1,0,Middle,Mumbai,Maharashtra,50,,No,,No,funded,No,2,1,Accepted,4,0,0,2,No,No,0,0.8,40,0.8,20,deal made,4,0.36,Both,1,0,0
+3,Turms,4,Beauty/Fashion,https://urturms.com/,2022,1,0,Old,Bangalore,Karnataka,,,No,,No,funded,No,2,1,Accepted,4,0,0,1,No,No,0,1.2,60,1.2,30,deal made,0.7,0.86,Both,1,0,0
+3,Mintree,4,Beauty/Fashion,https://mintree.us/,2018,1,0,Middle,Nagpur,Maharashtra,,,No,,No,funded,No,1,1,Accepted,1.5,0,0,2,No,No,0,0.9,90,0.9,60,deal made,9,,Yearly Only,0,1,0
+3,Dilfoods,5,Food,https://dilfoods.in/,2022,1,0,Middle,Ranchi,Jharkhand,,,No,,No,funded,No,0.5,1,Accepted,2.67,0,0,4,No,No,0,0.5,100,2,74.90636704,deal made,7,,Yearly Only,0,1,0
+3,Tiggle,8,Food,https://thetiggle.com/,2020,1,0,Young,Agra,Uttar Pradesh,,,No,,No,funded,No,5,1,Accepted,20,0,0,2,No,yes,0,0.5,10,0.5,2.5,deal made,1.5,0.12,Both,0,1,0
+3,Evascalp,11,Medical/Health,https://evascalpcooling.co.in/,2020,1,0,Middle,Mumbai,Maharashtra,85,,Yes,,yes,funded,No,1.2,1,Accepted,1.8,0,0,3,No,No,0,0.3,25,0.3,16.66666667,deal made,0.59,0.1,Both,1,0,0
+3,Honeytwigs,12,Food,https://honeytwigs.co/,,3,0,Middle,Delhi,Delhi,,,No,,No,funded,No,3,1,Accepted,3,0,0,3,No,No,0,0.75,25,0.75,25,deal made,4,0.35,Both,3,0,0
+3,Koparo,12,Food,https://koparoclean.com/,2020,1,0,Middle,Delhi,Delhi,,,No,,No,funded,No,1,1,Accepted,1,0,0,2,No,No,0,0.7,70,0.7,70,deal made,4.5,0.8,Both,0,1,0
+3,Jewelbox,13,Beauty/Fashion,https://jewelbox.co.in/,,2,0,Middle,Kolkata,West Bengal,,,No,,No,funded,No,2,1,Accepted,6,0,0,5,No,No,0,1,50,2,33.33333333,deal made,5.2,,Yearly Only,1,1,0
+3,Daakroom,13,Services,https://daakroom.com/,2013,2,0,Middle,Delhi,Delhi,,,No,,No,funded,No,4,1,Accepted,6,0,0,1,yes,No,0,0.36,9,0.36,6,deal made,0.9,,Yearly Only,0,2,0
+3,Nashermiles,15,Beauty/Fashion,https://nashermiles.com/,2017,3,1,Middle,Mumbai,Maharashtra,,,No,,No,funded,yes,0.75,1,Accepted,1.5,0,0,5,No,No,0,3,400,3,200,deal made,57,,Yearly Only,2,1,0
+3,Yesmadam,19,Beauty/Fashion,https://www.yesmadam.com/,2016,4,0,Middle,Delhi,Delhi,,,No,,No,funded,No,0.5,1,Accepted,2,0,0,4,No,yes,0,1.5,300,1.5,75,deal made,50,,Yearly Only,3,1,0
+3,Pushsports,20,Sports,https://pushsports.in/,2017,2,0,Middle,Delhi,Delhi,,,No,,No,funded,No,1,1,Accepted,4,0,0,2,No,yes,0,0.8,80,0.8,20,deal made,9,0.5,Both,2,0,0
+3,D'Chica,22,Beauty/Fashion,https://www.dchica.in/,2020,2,0,Middle,Delhi,Delhi,,,Yes,,No,funded,No,1,1,Accepted,2,0,0,2,No,yes,0,0.8,80,0.8,40,deal made,10.3,1.2,Both,0,2,0
+3,Refit,22,Electronics,https://refitglobal.com/,2017,2,0,Middle,Delhi,Delhi,14,,No,,No,yes,No,0.5,1,Accepted,1,0,0,3,No,yes,0,2,400,2,200,deal made,187,35,Both,2,0,0
+3,Artinci,23,Food,https://www.artinci.com/,2017,2,1,Middle,Bangalore,Karnataka,62,,Yes,,yes,funded,No,1.75,1,Accepted,5,0,0,1,yes,yes,0,0.5,28.57142857,0.5,10,deal made,4.4,0.33,Both,1,1,0
+3,Aroleap,26,Medical/Health,https://www.aroleap.com/,2020,3,0,Middle,Bangalore,Karnataka,,,Yes,,yes,funded,No,2.5,1,Accepted,5,0,0,4,No,No,0,1,40,1,20,deal made,1,,Yearly Only,3,0,0
+3,Unclepeterspancakes,27,Food,https://www.unclepeterspancakes.com/,,2,0,Middle,"Kolkata,Varanasi","West Bengal,Uttar Pradesh",,,No,,No,yes,No,2,1,Accepted,3,0,0,3,No,yes,0,0.6,30,0.6,20,deal made,14,2.1,Both,2,0,0
+3,Candidmen,28,Beauty/Fashion,https://candidmen.in/,2017,2,0,Middle,Bangalore,Karnataka,,,No,,No,yes,yes,2,1,Accepted,5,0,0,2,yes,No,0,0.6,30,0.6,12,deal made,2.1,,Yearly Only,1,1,0
+3,Kryzenbiotech,30,Agriculture,https://www.kryzen.com/,2019,2,1,Middle,Pune,Maharashtra,,,No,,No,funded,No,3,1,Accepted,15,0,0,1,No,yes,0,0.75,25,0.75,5,deal made,2.25,,Yearly Only,1,1,0
+3,Littlebox,35,Beauty/Fashion,https://littleboxindia.com/,2022,2,1,Middle,Guwahati,Assam,50,,No,,No,yes,No,1,1,Accepted,2.5,0,0,5,No,No,0,0.75,75,0.75,30,deal made,36,2,Both,1,1,0
+3,Cremecastle,35,Food,https://cremecastle.in/,2015,2,1,Middle,Noida,Uttar Pradesh,65,,Yes,,No,funded,No,1.5,1,Accepted,2.5,0,0,1,No,No,0,0.6,40,0.6,24,deal made,7.2,,Yearly Only,1,1,0
+3,Designtemplate,36,Technology/Software,https://designtemplate.io/,,1,0,Middle,Bid,Maharashtra,,,No,,No,funded,No,2.5,1,Accepted,10,0,0,1,No,No,0,1,40,1,10,deal made,1.6,0.16,Both,1,0,0
+3,Coratiatechnologies,43,Technology/Software,https://coratia.com/,2021,2,0,Middle,Rourkela,Odisha,,,No,,No,funded,No,1,1,Accepted,1,0,0,1,No,No,0,0.8,80,0.8,80,deal made,1.28,,Yearly Only,2,0,0
+3,Xmachines,44,Technology/Software,https://www.xmachines.ai/,2017,1,0,Middle,Hyderabad,Telangana,,,No,,No,funded,No,4,1,Accepted,4,0,0,2,No,No,0,0.72,18,0.72,18,deal made,0,,Yearly Only,1,0,0
+3,Farmdidi,45,Food,https://www.farmdidi.com/,2021,3,0,Middle,"Amravati,Lucknow,Bahadurgarh","Maharashtra,Uttar Pradesh,Haryana",65,,Yes,,No,funded,No,2,1,Accepted,10,0,0,2,No,No,0,0.5,25,1,10,deal made,0.6,0.1,Both,1,2,0
+3,Indigifts,46,Services,https://indigifts.in/,2017,2,1,Middle,Jaipur,Rajasthan,75,,No,,No,yes,No,2,1,Accepted,4,0,0,2,No,No,0,0.5,25,0.5,12.5,deal made,7.4,0.76,Both,1,1,0
+3,Allter,48,Furnishing/Household,https://letsallter.com/,2020,1,0,Middle,Delhi,Delhi,,,Yes,,No,yes,No,2.5,1,Accepted,4,0,0,3,No,No,0,1,40,1,25,deal made,10,,Yearly Only,0,1,0
+3,Ptal,50,Furnishing/Household,https://ptal.in/,2017,3,0,Young,Amritsar,Punjab,,,No,,No,funded,No,1,1,Accepted,3.2,0,0,5,No,No,0,0.5,50,1,31.25,deal made,3.98,,Yearly Only,2,1,0
+3,Lea,51,Beauty/Fashion,https://www.leaclothingco.com/,2021,2,0,Middle,Noida,Uttar Pradesh,80,,No,,No,funded,No,2,1,Accepted,4,0,0,4,No,yes,0,1,50,1,25,deal made,3,0.6,Both,0,2,0
+3,Cooltheglobe,52,Others,https://www.cooltheglobe.org/,,1,0,Middle,Pune,Maharashtra,,,No,,No,funded,No,5,1,Accepted,8,0,0,2,No,No,0,0.25,5,0.25,3.125,deal made,0,,Yearly Only,0,1,0
+3,Canvaloop,52,Manufacturing,http://www.canvaloop.com/,2020,2,1,Middle,Surat,Gujarat,,,No,,No,funded,No,1.33,1,Accepted,4,0,0,5,No,No,0,1,75.18796992,2,50,deal made,3.2,1.2,Both,1,1,0
+4,Gudworld,4,Food,https://gudworld.in/,2021,2,0,Young,Aurangabad,Maharashtra,,,No,,No,funded,No,2,1,Accepted,5,0,0,1,No,No,0,0.5,25,0.5,10,deal made,6,0.69,Both,0,2,0
+4,Airth,4,Furnishing/Household,https://airth.in/,2023,2,0,Middle,Delhi,Delhi,,,Yes,,yes,funded,No,1,1,Accepted,3.7,0,0,2,No,No,0,0.6,60,1,27.02702703,deal made,6,0.4,Both,2,0,0
+1,Headandheart,2,Education,https://thehnh.in/,2015,4,1,Middle,Patiala,Punjab,,,No,,No,funded,No,5,0,No Offer,0,0,0,0,No,No,0,0.5,10,0,0,no deal,0.3,,Yearly Only,1,3,0
+1,Agritourism,2,Agriculture,https://www.agritourism.in/,2005,2,1,Middle,Baramati,Maharashtra,,,No,,No,funded,No,5,0,No Offer,0,0,0,0,No,No,0,0.5,10,0,0,no deal,0.79,,Yearly Only,1,1,0
+1,Qzenselabs,3,Food,https://www.qzense.com/,2020,2,0,Middle,"Delhi,Mohali","Delhi,Punjab",,,No,,yes,funded,No,0.25,1,Rejected,0,0,0,0,No,No,0,1,400,0,0,no deal,0.25,0.15,Both,0,2,0
+1,Shrawaniengineers,5,Beauty/Fashion,https://www.shrawaniengineers.com/,2019,2,1,Middle,Nagpur,Maharashtra,,,No,,No,funded,No,10,0,No Offer,0,0,0,0,No,No,0,0.2,2,0,0,no deal,0.5,,Yearly Only,1,1,0
+1,Hecoll,6,Beauty/Fashion,https://hecoll.com/,2019,1,0,Middle,Hyderabad,Telangana,,,No,,No,funded,No,1,0,No Offer,0,0,0,0,No,No,0,1,100,0,0,no deal,1.07,,Yearly Only,0,1,0
+1,Torch-It,7,Education,https://mytorchit.com/,2018,1,0,Middle,Ahmedabad,Gujarat,,,No,,yes,funded,No,1,1,Rejected,0,0,0,0,No,No,0,0.75,75,0,0,no deal,2.6,0.01,Both,1,0,0
+1,Gopal'S56,11,Food,https://www.gopals56.in/,2014,1,0,Middle,Delhi,Delhi,21,,No,,No,funded,No,25,0,No Offer,0,0,0,0,No,No,0,300,1200,0,0,no deal,0.8,0.33,Both,1,0,0
+1,Goodgoodpiggy,14,Technology/Software,https://goodgoodpiggy.com/,2021,2,0,Young,Delhi,Delhi,,,No,,No,funded,No,5,0,No Offer,0,0,0,0,No,No,0,0.45,9,0,0,no deal,0,,Yearly Only,0,2,0
+1,Outbox,17,Services,https://www.outboxsurprises.com/,2017,2,0,Young,Kolkata,West Bengal,,,No,,No,funded,No,5,0,No Offer,0,0,0,0,No,No,0,0.5,10,0,0,no deal,1.1,,Yearly Only,1,1,0
+1,Mommy'Skitchen,18,Food,https://mommys.kitchen/,2016,3,0,Middle,Mumbai,Maharashtra,,,No,,No,funded,No,3,0,No Offer,0,0,0,0,No,No,0,0.9,30,0,0,no deal,0.92,0.045,Both,2,1,0
+1,Anthyesti,18,Services,https://anthyesti.com/,2015,1,0,Middle,Bangalore,Karnataka,50,6,No,,No,funded,No,2.5,0,No Offer,0,0,0,0,No,No,0,0.5,20,0,0,no deal,1.16,,Yearly Only,0,1,0
+1,Ethik,19,Manufacturing,https://www.ethik.in/,2012,2,0,Middle,Bangalore,Karnataka,,,No,,No,funded,No,5,0,No Offer,0,0,0,0,No,No,0,0.15,3,0,0,no deal,0.12,0.01,Both,2,0,0
+1,Ketoindia,19,Food,https://www.ketoindia.fit/,2019,1,0,Young,Delhi,Delhi,,,No,,No,funded,No,1.25,1,Rejected,0,0,0,0,No,No,0,1.5,120,0,0,no deal,1.8,0.15,Both,1,0,0
+1,Bakarmax,20,Technology/Software,https://bakarmax.com/,2020,2,0,Young,Delhi,Delhi,,,No,,No,funded,No,5,0,No Offer,0,0,0,0,No,No,0,0.35,7,0,0,no deal,0.35,0.05,Both,2,0,0
+1,Moonshine,22,Food,https://www.moonshinemeadery.com/,2018,2,0,Middle,Mumbai,Maharashtra,70,,No,,No,funded,No,0.5,1,Rejected,0,0,0,0,No,No,0,0.8,160,0,0,no deal,3.72,,Yearly Only,2,0,0
+1,Urbanmonkey,23,Beauty/Fashion,https://www.urbanmonkey.com/,2014,1,0,Young,Mumbai,Maharashtra,,25,No,,No,funded,No,1,1,Rejected,0,0,0,0,No,No,0,1,100,0,0,no deal,25,2,Both,1,0,0
+1,Guardiangears,23,Manufacturing,https://guardiangears.in/,2018,2,1,Middle,Hyderabad,Telangana,50,15,No,,No,funded,No,5,1,Rejected,0,0,0,0,No,No,0,0.3,6,0,0,no deal,2.5,0.21,Both,1,1,0
+1,Julaaautomation,26,Manufacturing,https://www.automaticjulaa.com/,2022,3,0,Middle,Ahmedabad,Gujarat,,,No,,yes,funded,No,10,0,No Offer,0,0,0,0,No,No,0,0.5,5,0,0,no deal,0,,Yearly Only,3,0,0
+1,Alistetechnologies,27,Technology/Software,https://www.alistetechnologies.com/,2020,6,0,Young,Noida,Uttar Pradesh,,40,No,,No,funded,No,5,1,Rejected,0,0,0,0,No,No,0,0.6,12,0,0,no deal,0.63,0.075,Both,6,0,0
+1,Kunafaworld,28,Food,https://www.kunafaworld.com/,2018,2,1,Young,Mangalore,Karnataka,,30,No,,No,funded,No,5,0,No Offer,0,0,0,0,No,No,0,0.9,18,0,0,no deal,2,0.3,Both,1,1,0
+1,Playboxtv,29,Services,https://playboxtv.in/,2017,2,0,Young,Mumbai,Maharashtra,,,No,,No,funded,No,3.5,1,Rejected,0,0,0,0,No,No,0,1,28.57,0,0,no deal,10.2,0.87,Both,2,0,0
+1,Shadesofspring,30,Services,https://shadesofspring.in/,2019,2,1,Young,Bangalore,Karnataka,30,,No,,No,funded,No,1,0,No Offer,0,0,0,0,No,No,0,3,300,0,0,no deal,9,,Yearly Only,1,1,0
+1,Scholify,30,Education,https://scholifyme.com/,2018,1,0,Middle,Bangalore,Karnataka,,,No,,No,funded,No,7.5,0,No Offer,0,0,0,0,No,No,0,0.5,6.67,0,0,no deal,0,,Yearly Only,1,0,0
+1,Scrapshala,31,Manufacturing,https://scrapshala.com/,2016,2,0,Middle,Varanasi,Uttar Pradesh,,,No,,No,funded,No,10,0,No Offer,0,0,0,0,No,No,0,0.5,5,0,0,no deal,0.27,0.02,Both,0,2,0
+1,Sabjikothi,31,Manufacturing,https://www.saptkrishi.com/,2019,2,0,Young,Bhagalpur,Bihar,,,No,,No,funded,No,2.5,0,No Offer,0,0,0,0,No,No,0,0.6,24,0,0,no deal,0,,Yearly Only,1,1,0
+1,Astrix,31,Manufacturing,https://www.astrixengineering.com/,2021,2,1,Middle,Coimbatore,Tamil Nadu,,,No,,No,funded,No,3,0,No Offer,0,0,0,0,No,No,0,0.75,25,0,0,no deal,0.75,0.18,Both,1,1,0
+1,Theaandsid,32,Services,https://theaandsid.com/,2021,2,0,Middle,Mumbai,Maharashtra,75,30,No,,No,funded,No,7,0,No Offer,0,0,0,0,No,No,0,0.8,11.43,0,0,no deal,0.16,0.1,Both,0,2,0
+1,Experentialetc,32,Technology/Software,https://www.experientialetc.com/,2017,2,0,Middle,Mumbai,Maharashtra,,,No,,No,funded,No,4,1,Rejected,0,0,0,0,No,No,0,2,50,0,0,no deal,1,,Yearly Only,2,0,0
+1,On2Cook,34,Food,https://on2cook.com/,2022,1,0,Middle,Ahmedabad,Gujarat,,,No,,No,funded,No,1,0,No Offer,0,0,0,0,No,No,0,1,100,0,0,no deal,0,,Yearly Only,1,0,0
+1,Woloo,35,Technology/Software,https://woloo.in/,2020,3,0,Middle,Mumbai,Maharashtra,,,No,,No,funded,No,4,1,Rejected,0,0,0,0,No,No,0,0.5,12.5,0,0,no deal,1.08,,Yearly Only,1,2,0
+1,Elcareindia,35,Medical/Health,https://elcare.co/,2021,3,0,Middle,Mumbai,Maharashtra,30,,No,,No,funded,No,2.5,0,No Offer,0,0,0,0,No,No,0,1,40,0,0,no deal,0.6,,Yearly Only,2,1,0
+1,Frenchcrown,36,Beauty/Fashion,https://frenchcrown.in/,2017,2,0,Middle,Surat,Gujarat,70,,No,,No,funded,No,0.33,1,Rejected,0,0,0,0,No,No,0,1.5,454.55,0,0,no deal,72,,Yearly Only,2,0,0
+1,Devnagri,36,Technology/Software,https://devnagri.com/,2020,2,0,Middle,Delhi,Delhi,,,No,,No,funded,No,1,1,Rejected,0,0,0,0,No,No,0,1,100,0,0,no deal,5,,Yearly Only,2,0,0
+1,Mine4Nine,0,Beauty/Fashion,https://mine4nine.in/,2019,2,1,Middle,Gurgaon,Haryana,,,No,,No,funded,No,4,0,No Offer,0,0,0,0,No,No,0,0.75,18.75,0,0,no deal,2.6,,Yearly Only,1,1,0
+1,Studiobeej,0,Beauty/Fashion,https://studiobeej.com/,2020,1,0,Middle,Mumbai,Maharashtra,,,No,,No,funded,No,7.5,0,No Offer,0,0,0,0,No,No,0,0.75,10,0,0,no deal,1.12,,Yearly Only,0,1,0
+1,Sattuz,0,Liquor/Beverages,https://sattuz.in/,2018,2,1,Middle,Madhubani,Bihar,,,No,,No,funded,No,5,0,No Offer,0,0,0,0,No,No,0,0.25,5,0,0,no deal,0.25,,Yearly Only,1,1,0
+1,Scintiglo,0,Medical/Health,https://cemd.in/,2021,1,0,Middle,Indore,Madhya Pradesh,,,No,,No,funded,No,1,1,Rejected,0,0,0,0,No,No,0,0.75,75,0,0,no deal,0,,Yearly Only,1,0,0
+1,Canebot,0,Food,,2012,2,1,Middle,Pune,Maharashtra,,,No,,yes,funded,No,2.5,0,No Offer,0,0,0,0,No,No,0,1,40,0,0,no deal,2,,Yearly Only,1,1,0
+1,Eume,0,Beauty/Fashion,https://eumeworld.com/,2018,3,1,Middle,Mumbai,Maharashtra,,,No,,No,funded,No,2,1,Rejected,0,0,0,0,No,No,0,1.5,75,0,0,no deal,12,,Yearly Only,2,1,0
+2,Gunjanappsstudios,7,Technology/Software,https://gunjanappstudios.com/,,2,1,Middle,Kolkata,West Bengal,,,No,,No,funded,No,1,0,No Offer,0,0,0,0,No,No,0,2.5,250,0,0,no deal,24,,Yearly Only,1,1,0
+2,Sayonara,18,Beauty/Fashion,,,1,0,Middle,Kolkata,West Bengal,,,No,,yes,funded,No,1,0,No Offer,0,0,0,0,No,No,0,1,100,0,0,no deal,0,,Yearly Only,1,0,0
+2,Pmv,19,Vehicles/Electrical Vehicles,https://pmvelectric.com/,2018,1,0,Middle,Mumbai,Maharashtra,,,No,,No,funded,No,1,1,Rejected,0,0,0,0,No,No,0,1,100,0,0,no deal,0,,Yearly Only,1,0,0
+2,Beunic,21,Services,https://beunic.in/,,3,0,Middle,Noida,Uttar Pradesh,,,No,,No,funded,No,10,1,Rejected,0,0,0,0,No,No,0,1,10,0,0,no deal,0.5,0.06,Both,1,1,1
+2,Febris,23,Medical/Health,https://www.febris.in/,,2,0,Middle,Ferozepur,Punjab,,20,No,,No,funded,No,2.5,0,No Offer,0,0,0,0,No,No,0,1,40,0,0,no deal,1.1,0.12,Both,2,0,0
+2,Leafyaffair,24,Beauty/Fashion,https://leafyaffair.com/,,1,0,Middle,Bangalore,Karnataka,80,,No,,No,funded,No,2.5,0,No Offer,0,0,0,0,No,No,0,0.5,20,0,0,no deal,1.1,0.21,Both,1,0,0
+2,Gavinparis,26,Beauty/Fashion,https://www.gavinparis.com/,2022,2,0,Young,Kolkata,West Bengal,60,,No,,No,funded,No,5,1,Rejected,0,0,0,0,No,No,0,0.5,10,0,0,no deal,1.14,,Yearly Only,2,0,0
+2,Hobbyindia,27,Furnishing/Household,https://hobbyindia.store/,,3,1,Young,Surat,Gujarat,,,No,,No,funded,No,3,1,Rejected,0,0,0,0,No,No,0,0.5,16.66666667,0,0,no deal,1.17,,Yearly Only,1,2,0
+2,Flhexible,27,Furnishing/Household,https://www.flhexible.com/,2019,2,1,Middle,Jaipur,Rajasthan,40,25,No,,No,funded,No,7.5,0,No Offer,0,0,0,0,No,No,0,0.5,6.666666667,0,0,no deal,0.16,0.035,Both,1,1,0
+2,Upthrust,27,Sports,https://www.upthrustesports.com/,,2,0,Young,Mumbai,Maharashtra,,30,No,,No,funded,No,3,0,No Offer,0,0,0,0,No,No,0,0.75,25,0,0,no deal,3,0.33,Both,2,0,0
+2,Desitoys,28,Manufacturing,https://www.desitoys.in/,2017,1,0,Middle,Mumbai,Maharashtra,50,18,No,,No,funded,No,3,1,Rejected,0,0,0,0,No,No,0,0.5,16.66666667,0,0,no deal,1.15,0.2,Both,0,1,0
+2,Tipayi,31,Manufacturing,https://www.vamshycle.com/,2019,1,0,Young,Pune,Maharashtra,35,26,No,,yes,funded,No,10,1,Rejected,0,0,0,0,No,No,0,0.5,5,0,0,no deal,0.21,0.005,Both,1,0,0
+2,Midnightangelsbypc,34,Beauty/Fashion,https://midnightangelsbypc.com/,2017,2,0,Middle,Gurgaon,Haryana,83,20,No,,No,funded,No,6,1,Rejected,0,0,0,0,No,No,0,0.75,12.5,0,0,no deal,1.8,,Yearly Only,0,2,0
+2,Toyshine,35,Manufacturing,https://toyshine.in/,,1,0,Middle,Jalandhar,Punjab,,15,No,,No,funded,No,0.5,0,No Offer,0,0,0,0,No,No,0,1.25,250,0,0,no deal,45,4.5,Both,1,0,0
+2,Amrutam,36,Food,https://amrutam.co.in/,2017,3,0,Middle,Gwalior,Madhya Pradesh,,,No,,No,funded,No,2,0,No Offer,0,0,0,0,No,No,0,0.5,25,0,0,no deal,1.1,,Yearly Only,2,1,0
+2,Zoe,37,Food,https://www.zoe.menu/,,2,1,Middle,Gurgaon,Haryana,,,No,,No,funded,No,5,0,No Offer,0,0,0,0,No,No,0,0.75,15,0,0,no deal,1.2,,Yearly Only,1,1,0
+2,Nanoclean,37,Manufacturing,https://nanoclean.store/,2017,1,0,Middle,Bikaner,Rajasthan,,,No,,yes,funded,No,2,0,No Offer,0,0,0,0,No,No,0,0.8,40,0,0,no deal,1.1,0.05,Both,1,0,0
+2,Desmondji,38,Liquor/Beverages,,,2,0,Middle,Goa,Goa,,,No,,No,funded,No,1,0,No Offer,0,0,0,0,No,No,0,1,100,0,0,no deal,12,1.25,Both,2,0,0
+2,Craverajafoods,39,Food,https://craverajafoods.com/,2020,2,0,Middle,Kolkata,West Bengal,70,3,No,,No,funded,No,3,0,No Offer,0,0,0,0,No,No,0,0.65,21.66666667,0,0,no deal,2.56,0.2,Both,2,0,0
+2,Drcubes,42,Liquor/Beverages,https://drcubes.in/,2017,2,0,Middle,Bangalore,Karnataka,45,35,No,,No,funded,No,15,0,No Offer,0,0,0,0,No,No,0,0.8,5.333333333,0,0,no deal,0.75,,Yearly Only,2,0,0
+2,Metroride,42,Vehicles/Electrical Vehicles,https://metroride.in/,,2,0,Middle,Bangalore,Karnataka,,,No,,No,funded,No,1,0,No Offer,0,0,0,0,No,No,0,0.75,75,0,0,no deal,0.54,0.25,Both,2,0,0
+2,Conker,42,Technology/Software,https://learn.conkerworld.com/,,1,0,Middle,Bangalore,Karnataka,50,8,No,,No,funded,No,1,0,No Offer,0,0,0,0,No,No,0,0.4,40,0,0,no deal,1.2,0.22,Both,1,0,0
+2,Oyehappy,43,Services,https://www.oyehappy.com/,,2,0,Middle,Hyderabad,Telangana,80,,No,,No,funded,No,1,0,No Offer,0,0,0,0,No,No,0,0.5,50,0,0,no deal,10.05,0.8,Both,2,0,0
+2,Waggyzone,44,Animal/Pets,https://waggyzone.com/,,1,0,Middle,Mumbai,Maharashtra,60,,No,,No,funded,No,5,0,No Offer,0,0,0,0,No,No,0,0.5,10,0,0,no deal,0,0.01,Both,0,1,0
+2,Zsportstech,46,Sports,https://www.zsportstech.com/,,2,0,Middle,Mumbai,Maharashtra,,,No,,No,funded,No,2,0,No Offer,0,0,0,0,No,No,0,0.6,30,0,0,no deal,0.31,,Yearly Only,2,0,0
+2,Thebigbookbox Chapteronebooks,47,Furnishing/Household,https://www.thebigbookbox.com/,,2,0,Middle,Gopalganj,Bihar,,,No,,No,funded,No,8,0,No Offer,0,0,0,0,No,No,0,0.5,6.25,0,0,no deal,1.4,,Yearly Only,1,1,0
+3,Consciouschemist,1,Beauty/Fashion,https://consciouschemist.com/,2020,2,0,Middle,Jaipur,Rajasthan,,,No,,No,funded,No,2,0,No Offer,0,0,0,0,No,No,0,0.6,30,0,0,no deal,4.5,0.85,Both,2,0,0
+3,Bartisans,5,Liquor/Beverages,https://www.bartisans.in/,2021,2,0,Middle,Mumbai,Maharashtra,70,,Yes,,No,funded,No,2.5,1,Rejected,0,0,0,0,No,No,0,1,40,0,0,no deal,1.43,0.35,Both,1,1,0
+3,Nabhisutra,6,Beauty/Fashion,https://nabhisutra.com/,,2,0,Middle,Vadodara,Gujarat,,8,No,,No,funded,No,3,0,No Offer,0,0,0,0,No,No,0,0.6,20,0,0,no deal,4.5,0.5,Both,1,1,0
+3,Zorko,7,Food,https://zorko.in/,2021,2,0,Young,Surat,Gujarat,40,20,No,,No,funded,No,1,1,Rejected,0,0,0,0,No,No,0,1.5,150,0,0,no deal,30,2.4,Both,2,0,0
+3,Pizzagalleria,9,Food,https://pizzagalleria.in/,2015,2,0,Middle,Gohana,Haryana,,15,No,,No,funded,No,2,0,No Offer,0,0,0,0,No,No,0,1,50,0,0,no deal,1.15,,Yearly Only,2,0,0
+3,Elitty,11,Beauty/Fashion,https://elittybeauty.com/,,2,0,Middle,Gurgaon,Haryana,36,,Yes,,No,funded,No,4,1,Rejected,0,0,0,0,No,No,0,1,25,0,0,no deal,1.13,0.11,Both,0,2,0
+3,Rajaranicoaching,14,Beauty/Fashion,https://www.rajaranicoaching.com/,2021,2,1,Young,Surat,Gujarat,,,No,,No,funded,No,5,1,Rejected,0,0,0,0,No,No,0,1.3,26,0,0,no deal,2,,Yearly Only,1,1,0
+3,Assembly,15,Beauty/Fashion,https://assemblytravel.com/,2018,2,0,Middle,Gurugram,Haryana,,,No,,yes,funded,yes,1,1,Rejected,0,0,0,0,No,No,0,0.85,85,0,0,no deal,11.5,,Yearly Only,2,0,0
+3,Altco,16,Food,https://alt.company/,2020,2,0,Middle,Bangalore,Karnataka,,,Yes,,No,funded,No,2,0,No Offer,0,0,0,0,No,No,0,1.5,75,0,0,no deal,10,1.1,Both,2,0,0
+3,Quirksmith,17,Beauty/Fashion,https://quirksmith.com/,2016,2,0,Middle,Agra,Uttar Pradesh,,4,No,,No,funded,No,1,1,Rejected,0,0,0,0,No,No,0,0.8,80,0,0,no deal,6,0.75,Both,0,2,0
+3,Ecobiotraps,18,Animal/Pets,https://ecobiotraps.com/,2022,3,0,Middle,"Ahmedabad,Pune","Gujarat,Maharashtra",25,4,No,,yes,funded,No,2,1,Rejected,0,0,0,0,No,No,0,0.5,25,0,0,no deal,0.84,0.08,Both,2,1,0
+3,Zerodor,19,Furnishing/Household,https://www.zerodor.in/,,2,0,Middle,"Ahmedabad,Mumbai","Gujarat,Maharashtra",,7,No,,yes,funded,No,3,1,Rejected,0,0,0,0,No,No,0,1,33.33333333,0,0,no deal,2.8,,Yearly Only,2,0,0
+3,Cannazoindia,20,Beauty/Fashion,https://cannazoindia.com/,2022,3,0,Middle,Mumbai,Maharashtra,,,No,,No,funded,No,5,1,Rejected,0,0,0,0,No,No,0,1.5,30,0,0,no deal,0.5,0.18,Both,2,1,0
+3,Intensefocus,21,Beauty/Fashion,https://intensefocus.com/,,1,0,Middle,,,60,,No,,No,funded,No,5,0,No Offer,0,0,0,0,No,No,0,5,100,0,0,no deal,8.25,1,Both,1,0,0
+3,Milletamma,21,Food,https://milletamma.com/,2017,2,1,Middle,Bangalore,Karnataka,,,No,,No,funded,No,3,0,No Offer,0,0,0,0,No,No,0,1,33.33333333,0,0,no deal,2.2,0.33,Both,1,1,0
+3,Rubbabu,24,Manufacturing,https://rubbabu.com/,2020,3,1,Old,Delhi,Delhi,,,No,,No,funded,No,5,0,No Offer,0,0,0,0,No,No,0,2,40,0,0,no deal,4,0.52,Both,1,2,0
+3,Gulabojaipur,24,Beauty/Fashion,https://www.gulabojaipur.com/,2014,2,1,Middle,Jaipur,Rajasthan,,,No,,No,funded,No,1,0,No Offer,0,0,0,0,No,No,0,0.9,90,0,0,no deal,4.5,0.72,Both,1,1,0
+3,Fabriclore,26,Beauty/Fashion,https://fabriclore.com/,2016,3,0,Middle,Jaipur,Rajasthan,,,No,,No,funded,No,1,0,No Offer,0,0,0,0,No,No,0,0.687,68.7,0,0,no deal,10,,Yearly Only,3,0,0
+3,Gridmats,27,Manufacturing,https://www.gridmats.com/,2017,2,0,Middle,,,,,No,,yes,funded,No,2,0,No Offer,0,0,0,0,No,No,0,5,250,0,0,no deal,4.5,,Yearly Only,2,0,0
+3,Creativehatti,28,Services,https://www.creativehatti.com/,2020,5,1,Middle,Panchkula,Haryana,,,No,,yes,funded,No,2,0,No Offer,0,0,0,0,No,No,0,0.6,30,0,0,no deal,4,0.55,Both,3,2,0
+3,Rize,32,Food,https://rizebar.in/,2023,2,0,Young,Gurgaon,Haryana,,,No,,No,funded,No,6,0,No Offer,0,0,0,0,No,No,0,0.45,7.5,0,0,no deal,0,,Yearly Only,2,0,0
+3,Baccabucci,33,Beauty/Fashion,https://baccabucci.com/,2014,2,0,Young,Delhi,Delhi,55,,No,,No,yes,No,1,0,No Offer,0,0,0,0,No,No,0,2.5,250,0,0,no deal,47,,Yearly Only,2,0,0
+3,Beunatural,33,Beauty/Fashion,,2015,1,0,Middle,Delhi,Delhi,,25,No,,No,yes,No,2.5,0,No Offer,0,0,0,0,No,No,0,0.6,24,0,0,no deal,4,0.28,Both,1,0,0
+3,Erotissch,34,Beauty/Fashion,https://erotissch.com/,2019,2,0,Middle,Agra,Uttar Pradesh,63,1,No,,No,funded,No,3,0,No Offer,0,0,0,0,No,No,0,0.75,25,0,0,no deal,3.8,,Yearly Only,0,2,0
+3,Karibocosmetics,36,Beauty/Fashion,https://karibocosmetics.com/,2019,2,0,Young,Mumbai,Maharashtra,60,50,No,,No,funded,No,5,0,No Offer,0,0,0,0,No,No,0,0.8,16,0,0,no deal,0.8,,Yearly Only,0,2,0
+3,Cup-Ji,38,Liquor/Beverages,https://cupji.com/,2022,2,0,Middle,Mumbai,Maharashtra,40,,Yes,,No,funded,No,5,0,No Offer,0,0,0,0,No,No,0,0.5,10,0,0,no deal,0.62,0.035,Both,2,0,0
+3,Oddgiraffe,42,Furnishing/Household,https://www.oddgiraffe.com/,2019,2,0,Middle,Mumbai,Maharashtra,80,,Yes,,No,funded,No,7.5,0,No Offer,0,0,0,0,No,No,0,0.75,10,0,0,no deal,4.1,0.27,Both,2,0,0
+3,Coolant,44,Manufacturing,https://www.coolant.co/,,1,0,Middle,Noida,Uttar Pradesh,,,Yes,,No,funded,No,1,0,No Offer,0,0,0,0,No,No,0,0.9,90,0,0,no deal,1.1,,Yearly Only,1,0,0
+3,Luvottica,44,Furnishing/Household,https://www.luvottica.in/,2019,1,0,Middle,Abohar,Punjab,80,30,No,,No,funded,No,10,0,No Offer,0,0,0,0,No,No,0,2,20,0,0,no deal,1,,Yearly Only,1,0,0
+3,Alienversions,46,Vehicles/Electrical Vehicles,https://alienversions.com/,2023,2,0,Young,"Itanagar,Dehradun","Arunachal Pradesh,Uttarakhand",,,No,,No,funded,No,5,0,No Offer,0,0,0,0,No,No,0,0.5,10,0,0,no deal,0,,Yearly Only,2,0,0
+3,Kikolive,47,Technology/Software,https://kiko.live/,2020,3,1,Middle,Mumbai,Maharashtra,,,No,,yes,funded,No,1,0,No Offer,0,0,0,0,No,No,0,1,100,0,0,no deal,0.25,0.03,Both,2,1,0
+3,Melooha,47,Others,https://www.melooha.com/,2022,3,0,Middle,Bangalore,Karnataka,,,No,,yes,funded,No,2,0,No Offer,0,0,0,0,No,No,0,0.8,40,0,0,no deal,0,,Yearly Only,2,1,0
+3,Futrstudios,47,Technology/Software,https://www.futrstudios.in/,2022,2,0,Middle,"Chandigarh,Ahmedabad","Punjab,Gujarat",,,No,,No,yes,No,2.5,0,No Offer,0,0,0,0,No,No,0,1,40,0,0,no deal,0.46,,Yearly Only,2,0,0
+3,Shararat,48,Furnishing/Household,https://shararat.in/,2020,2,1,Middle,Noida,Uttar Pradesh,,,Yes,,No,funded,No,7,0,No Offer,0,0,0,0,No,No,0,0.6,8.571428571,0,0,no deal,3.3,0.27,Both,1,1,0
+3,Competishun,49,Education,https://competishun.com/,2020,3,0,Middle,Jaipur,Rajasthan,,,No,,No,funded,No,1,0,No Offer,0,0,0,0,No,No,0,2,200,0,0,no deal,10.25,,Yearly Only,3,0,0
+3,Bombayclosetcleanse,49,Beauty/Fashion,https://bombayclosetcleanse.in/,2020,2,0,Young,Mumbai,Maharashtra,,15,No,,No,funded,No,2.5,0,No Offer,0,0,0,0,No,No,0,1,40,0,0,no deal,1.9,0.2,Both,0,2,0
+3,Kioskkaffee,49,Liquor/Beverages,https://kiosk-kaffee.com/,2020,3,0,Middle,Pune,Maharashtra,,9,No,,No,funded,No,3,0,No Offer,0,0,0,0,No,No,0,0.9,30,0,0,no deal,8.4,,Yearly Only,3,0,0
+3,Rentit4Me,51,Services,https://rentit4me.com/,2023,3,1,Middle,Gurugram,Haryana,36,12,No,,No,funded,No,5,0,No Offer,0,0,0,0,No,No,0,1.5,30,0,0,no deal,1.42,0.23,Both,1,2,0
+3,Digitalpaani,52,Manufacturing,https://www.digitalpaani.com/,2020,2,0,Middle,Jaipur,Rajasthan,30,,Yes,,No,funded,No,1,0,No Offer,0,0,0,0,No,No,0,0.7,70,0,0,no deal,2.2,,Yearly Only,1,1,0
+4,Onedios,4,Furnishing/Household,https://www.onedios.com/,2019,1,0,Middle,Noida,Uttar Pradesh,,,Yes,,No,funded,No,1.5,0,No Offer,0,0,0,0,No,No,0,0.75,50,0,0,no deal,3.57,,Yearly Only,1,0,0
+4,Imagimake,7,Education,https://imagimake.com/,2014,2,1,Middle,Mumbai,Maharashtra,,,No,,yes,funded,No,0.5,1,Rejected,0,0,0,0,No,No,0,1.5,300,0,0,no deal,56,,Yearly Only,1,1,0
+4,Godevil,8,Beauty/Fashion,https://godevil.in/,2022,2,0,Young,Gurugram,Haryana,60,,No,,No,funded,No,2,0,No Offer,0,0,0,0,No,No,0,0.8,40,0,0,no deal,2.75,0.51,Both,1,1,0
+4,Havintha,8,Beauty/Fashion,https://havintha.in/,,1,0,Middle,Indore,Madhya Pradesh,,,No,,No,funded,No,2,1,Rejected,0,0,0,0,No,No,0,0.5,25,0,0,no deal,5,0.62,Both,1,0,0
+4,Kyari,9,Furnishing/Household,https://kyari.co/,2022,2,0,Middle,Indore,Madhya Pradesh,70,,Yes,,No,funded,yes,0.8,1,Rejected,0,0,0,0,No,No,0,0.8,100,0,0,no deal,10.48,2.63,Both,2,0,0
+1,Peeschute,3,Beauty/Fashion,https://www.peeschute.com/,2019,1,0,Young,Jalna,Maharashtra,,,No,2,No,funded,No,4,1,Accepted,6,0,0,1,No,No,0,0.75,18.75,0.75,12.5,deal made,1,,Yearly Only,1,0,0
+1,Cosiq,4,Beauty/Fashion,https://mycosiq.com/,2021,2,1,Middle,Delhi,Delhi,75,20,No,8,No,funded,No,7.5,1,Accepted,25,0,0,2,No,No,0,0.5,6.67,0.5,2,deal made,0,0.04,Both,1,1,0
+1,Hungryhead,5,Food,http://www.hungryhead.co.in/,2013,2,0,Middle,Mumbai,Maharashtra,,,No,80,No,funded,No,5,0,No Offer,0,0,0,0,No,No,0,0.5,10,0,0,no deal,,0.055,Monthly Only,2,0,0
+1,Lakheerdeli,7,Food,https://lakheerdeli.com/,2018,3,0,Middle,Pune,Maharashtra,,,No,9,No,funded,No,7.5,1,Rejected,0,0,0,0,No,No,0,0.5,6.67,0,0,no deal,,0.06,Monthly Only,1,2,0
+1,Hammerlifestyle,15,Electronics,https://hammeronline.in/,2019,3,0,Young,Panipat,Haryana,,,No,14,No,funded,No,3,1,Accepted,40,0,0,1,No,No,0,0.3,10,1,2.5,deal made,10,,Yearly Only,3,0,0
+1,Let'Stry,16,Food,https://www.letstryfoods.com/,2017,4,1,Middle,Delhi,Delhi,55,25,No,50,No,funded,No,2,1,Accepted,12,0,0,2,No,No,0,0.45,22.5,0.45,3.75,deal made,,0.03,Monthly Only,1,3,0
+1,Indiahempandco,18,Food,https://www.indiahempandco.com/,2019,1,0,Middle,Bangalore,Karnataka,,,No,12,No,funded,No,4,1,Rejected,0,0,0,0,No,No,0,0.5,12.5,0,0,no deal,0.27,0.02,Both,0,1,0
+1,Thestateplate,20,Food,https://thestateplate.com/,2020,2,0,Young,"Bangalore,Kolkata","Karnataka,West Bengal",34,,Yes,400,No,funded,No,2,1,Accepted,3,25,0,1,No,No,0,0.65,32.5,0.4,13.33,deal made,,0.4,Monthly Only,1,1,0
+1,Get-A-Whey,21,Food,https://getawhey.in/,2018,2,0,Middle,Mumbai,Maharashtra,69,20,No,12,No,funded,No,8,1,Accepted,15,0,0,3,No,No,0,1,12.5,1,6.67,deal made,3.6,0.0025,Both,1,1,0
+1,Namhyafoods,23,Food,https://namhyafoods.com/,2019,1,0,Young,Jammu,Jammu & Kashmir,,34,No,70,No,funded,No,5,1,Accepted,10,50,0,1,No,No,0,1,20,0.5,5,deal made,,0.16,Monthly Only,0,1,0
+1,Modernmyth,23,Beauty/Fashion,https://www.modernmyth.in/,2019,2,0,Young,Delhi,Delhi,,,No,140,No,funded,No,5,0,No Offer,0,0,0,0,No,No,0,0.75,15,0,0,no deal,,0.14,Monthly Only,1,1,0
+1,Pawsindia,25,Animal/Pets,https://pawsindia.com/,2016,1,0,Young,Mumbai,Maharashtra,,16,No,350,No,funded,No,4,1,Accepted,15,0,0,1,yes,No,0,0.5,12.5,0.5,3.33,deal made,3,0.2,Both,0,1,0
+1,Rareplanet,26,Manufacturing,https://rareplanet.in/,2015,2,0,Middle,Kolkata,West Bengal,,10,No,6000,No,funded,No,1,1,Accepted,3,0,0,1,No,No,0,0.65,65,0.65,21.67,deal made,,0.12,Monthly Only,2,0,0
+1,Thekacoffee,27,Food,https://thekacoffee.com/,2018,1,0,Young,Gandhinagar,Gujarat,,,No,12,No,funded,No,10,0,No Offer,0,0,0,0,No,No,0,0.5,5,0,0,no deal,1.8,0.04,Both,1,0,0
+1,Pddfalcon,29,Manufacturing,https://falconproducts.co.in/,2018,2,1,Young,Gandhinagar,Gujarat,30,,No,300,No,funded,No,3,1,Rejected,0,0,0,0,No,No,0,0.75,25,0,0,no deal,2.42,,Yearly Only,1,1,0
+3,Aretto,6,Manufacturing,https://wearetto.com/,2020,1,0,Middle,Pune,Maharashtra,57,,Yes,5,yes,funded,No,1,0,No Offer,0,0,0,0,No,No,0,0.8,80,0,0,no deal,7,0.6,Both,1,0,0
+3,Gudgum,11,Food,https://gudgum.in/,2022,2,0,Young,Bangalore,Karnataka,,,No,9,No,funded,No,5,1,Accepted,10,0,0,4,No,yes,0,0.5,10,0.8,8,deal made,,,No Data,2,0,0
+3,Nuvedo,13,Food,https://nuvedo.com/,2021,2,1,Middle,Bangalore,Karnataka,,,No,6,No,funded,No,3,0,No Offer,0,0,0,0,No,No,0,0.5,16.66666667,0,0,no deal,0.25,,Yearly Only,1,1,0
+3,Decodeage,14,Medical/Health,https://decodeage.com/,2021,3,0,Middle,Bangalore,Karnataka,70,,Yes,10,No,funded,No,1.25,1,Accepted,2.25,0,0,1,No,yes,0,1,80,1,44.44444444,deal made,11,,Yearly Only,3,0,0
+3,Urbanspace,17,Furnishing/Household,https://www.urbanspacestore.in/,,2,1,Middle,Ahmedabad,Gujarat,,,No,1200,No,funded,No,1,1,Rejected,0,0,0,0,No,No,0,1.8,180,0,0,no deal,20.5,8,Both,1,1,0
+3,Cosmix,26,Medical/Health,https://cosmix.in/,2019,2,1,Middle,,,70,,No,25,No,yes,No,1,1,Accepted,1,0,0,1,No,yes,0,1,100,1,100,deal made,7.5,,Yearly Only,1,1,0
+3,Eatverse,29,Food,https://eatverse.in/,2014,3,0,Middle,Kolkata,West Bengal,,,No,8,No,funded,No,1,0,No Offer,0,0,0,0,No,No,0,1,100,0,0,no deal,1.07,1.72,Both,3,0,0
+3,Sorich,34,Food,https://sorichorganics.com/,,2,1,Middle,Delhi,Delhi,48,,Yes,67,No,yes,No,2.5,0,No Offer,0,0,0,0,No,No,0,0.9,36,0,0,no deal,7.06,0.55,Both,1,1,0
+3,Goldenfeathers,37,Manufacturing,https://goldenfeather.co.in/,2019,3,0,Middle,Jaipur,Rajasthan,,,No,386,yes,funded,No,5,0,No Offer,0,0,0,0,No,No,0,5,100,0,0,no deal,1.5,,Yearly Only,2,1,0
+3,Atoddlerthing,38,Beauty/Fashion,https://www.atoddlerthing.com/,2017,2,0,Middle,Coimbatore,Tamil Nadu,52,,Yes,28,No,funded,No,2,1,Accepted,2,40,0,1,No,yes,0,0.8,40,0.4,20,deal made,4.78,0.73,Both,1,1,0
+3,Fit&Flex,40,Food,https://fitandflex.in/,2019,1,0,Middle,Ahmedabad,Gujarat,,8,No,35,No,yes,No,3,1,Rejected,0,0,0,0,No,No,0,1,33.33333333,0,0,no deal,4.6,,Yearly Only,1,0,0
+3,Sukham,40,Medical/Health,https://www.sukham.life/,,4,1,Middle,Delhi,Delhi,,,Yes,1,No,funded,No,3.33,0,No Offer,0,0,0,0,No,No,0,1,30.03003003,0,0,no deal,0.47,0.21,Both,3,1,0
+3,Firstbudorganics,48,Food,https://firstbud.in/,2017,2,0,Middle,Deoghar,Jharkhand,,,No,20,No,yes,No,7,1,Accepted,10,0,0,1,No,No,0,0.5,7.142857143,0.5,5,deal made,1.5,0.22,Both,1,1,0
+4,Faebeauty,1,Beauty/Fashion,https://www.faebeauty.in/,,1,0,Middle,Mumbai,Maharashtra,,,No,50,No,funded,No,1,1,Accepted,1.5,0,0,2,No,No,0,1,100,1,66.66666667,deal made,10,,Yearly Only,0,1,0
+4,Confect,1,Food,https://www.confect.in/,2018,1,0,Middle,Delhi,Delhi,,,No,800,No,funded,No,1,1,Accepted,2,0,0,1,yes,yes,0,1,100,1,50,deal made,,1.25,Monthly Only,0,1,0
+4,Blfabric,2,Beauty/Fashion,https://blfabric.com/,2021,1,0,Middle,Surat,Gujarat,,10,No,250,No,funded,No,2,1,Accepted,5,0,0,2,yes,No,0,1,50,1,20,deal made,5.25,2.4,Both,1,0,0
+4,Curveelectric,3,Technology/Software,https://www.curveelectric.com/,2023,2,0,Middle,Srinagar,Jammu & Kashmir,,,No,150,No,funded,No,5,0,No Offer,0,0,0,0,No,No,0,5,100,0,0,no deal,,,No Data,2,0,0
+4,Personaltouchskincare,5,Beauty/Fashion,https://www.skincarepersonaltouch.com/,2022,2,0,Middle,Panipat,Haryana,,,No,38,No,funded,No,1,0,No Offer,0,0,0,0,No,No,0,1.2,120,0,0,no deal,12,,Yearly Only,1,1,0
+4,Kiwikisanwindow,5,Furnishing/Household,https://kiwikisanwindow.com/,2017,2,1,Middle,Dehradun,Uttarakhand,,,No,250,No,funded,No,1,1,Accepted,10,0,0,1,No,No,0,0.5,50,2.5,25,deal made,5.06,,Yearly Only,1,1,0
+4,Tripolegear,6,Sports,https://tripole.in/,2017,1,0,Middle,Delhi,Delhi,47,,No,250,No,yes,No,1,1,Accepted,1.15,25,9,1,No,No,0,1,100,0.75,65.2173913,deal made,14.2,1.6,Both,1,0,0
+4,Misscheesecake,6,Food,,2024,2,0,Young,Jodhpur,Rajasthan,50,35,No,6,No,funded,No,5,1,Rejected,0,0,0,0,No,No,0,0.3,6,0,0,no deal,,8.5,Monthly Only,1,1,0
