@@ -49,7 +49,7 @@ Season-wise breakdown of startups with or without cash burn.
 
 Helps assess sustainability concerns in startup models.
 
-🧩 Interactivity:
+Interactivity:
 Slicers added for filtering data by:
 
 Season Number
@@ -66,7 +66,7 @@ Bootstrapped Status
 
 Dynamic visuals update automatically with user input.
 
-🛠Tools Used:
+Tools Used:
 Power BI Desktop
 
 Data cleaning via Power Query Editor
